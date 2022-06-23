@@ -1,0 +1,69 @@
+<html lang="en">
+ 
+<head>
+    
+    <title>Slope</title>
+    <link rel="icon" type="image/x-icon" href="/assets/img/socials/ubg100.png" />
+    <link rel="mask-icon" type="" href="https://.github.io/assets/img/socials/ubg100.png" color="#111" />
+   <noscript>Your browser doesn't have JavaScript enabled. Please enable JavaScript or switch to a browser that
+        supports it.</noscript>
+    <link rel="stylesheet" href="TemplateData/style.css">
+    <script src="TemplateData/UnityProgress.js"></script>
+    <script src="TemplateData/unityloader41.js"></script>
+    <script>
+        var gameInstance = UnityLoader.instantiate("unityContainer", "Build/slope.json", { onProgress: UnityProgress, Module: { onRuntimeInitialized: function() { UnityProgress(gameInstance, "complete") } } });
+    </script>
+</head>
+<body>
+    <div class="webgl-content">
+      <div id="unityContainer" style="width: 960px; height: 600px; padding: 0px; margin: 0px; border: 0px; position: relative; background: rgb(35, 31, 32);"><canvas id="#canvas" width="335" height="667" style="width: 100%; height: 100%; cursor: default;"></canvas><div class="logo Dark" style="display: none;"></div><div class="progress Dark" style="display: none;"><div class="empty" style="width: 0%;"></div><div class="full" style="width: 100%;"></div></div></div>
+
+<script src="97c35fd0-ea33-4844-a283-b7a4c6942643" id="c4174e706ac02e24f4101391e93a5db9"></script>
+         <script type="text/javascript">
+     //Declare variables for cloak here
+const local_title = localStorage.getItem("title");
+const local_icon = localStorage.getItem("icon");
+
+//If the window already has title stored in localstorage
+if (window.localStorage.hasOwnProperty("title")) {
+  document.title = local_title;
+}
+//Fetch and set from user's input
+if (window.localStorage.hasOwnProperty("icon")) {
+  document.querySelector("link[rel=icon]").href = local_icon;
+}
+
+//Add Google Analytics
+const gascript = document.createElement("script");
+gascript.setAttribute("async", "");
+gascript.setAttribute("src", "https://www.googletagmanager.com/gtag/js?id=G-NSZB9Q5L1N");
+const inlinegascript = document.createElement("script");
+inlinegascript.innerHTML = `window.dataLayer = window.dataLayer || []; 
+function gtag(){dataLayer.push(arguments);} 
+gtag('js', new Date()); 
+gtag('config', 'G-NSZB9Q5L1N');`
+document.head.append(gascript, inlinegascript);
+
+//Semantic - Major.Minor.Patch
+const sArr = [`1`, `4`, `0`];
+const version = "v" + sArr.join(".");
+
+//Fetch visit count
+const visitapi = "https://api.countapi.xyz/update/emulatoros.github.io/8f40b809-76a1-46fd-b76e-6cbd8827df44/?amount=1";
+fetch(visitapi)
+.then((res) => res.json())
+.then((res) => {
+  document.getElementById("visit-count").innerText = " " + parseInt(res.value).toLocaleString("en-US"); //Add commas
+});
+
+//Turn off GSAP null warnings (if present)
+try {
+  gsap.config({
+    nullTargetWarn: false,
+  });
+} catch {
+  //empty b/c no need for return
+}
+     </script>
+ 
+</body>
