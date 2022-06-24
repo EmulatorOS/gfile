@@ -1,0 +1,252 @@
+{
+	"textures": [
+		{
+			"image": "sprites/loading/loadingSS.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 1656,
+				"w": 1810
+			},
+			"frames": [
+				{
+					"filename": "bright_light",
+					"frame": {
+						"x": 1050,
+						"y": 793,
+						"w": 400,
+						"h": 350
+					},
+					"sourceSize": {
+						"w": 400,
+						"h": 350
+					},
+					"rotated": false
+				},
+				{
+					"filename": "circle",
+					"frame": {
+						"x": 1525,
+						"y": 0,
+						"w": 283,
+						"h": 279
+					},
+					"sourceSize": {
+						"w": 283,
+						"h": 279
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome",
+					"frame": {
+						"x": 0,
+						"y": 906,
+						"w": 546,
+						"h": 402
+					},
+					"sourceSize": {
+						"w": 546,
+						"h": 402
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x1",
+					"frame": {
+						"x": 1502,
+						"y": 403,
+						"w": 300,
+						"h": 230
+					},
+					"sourceSize": {
+						"w": 300,
+						"h": 230
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x10",
+					"frame": {
+						"x": 525,
+						"y": 0,
+						"w": 523,
+						"h": 451
+					},
+					"sourceSize": {
+						"w": 523,
+						"h": 451
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x11",
+					"frame": {
+						"x": 1050,
+						"y": 1145,
+						"w": 375,
+						"h": 324
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 324
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x12",
+					"frame": {
+						"x": 525,
+						"y": 453,
+						"w": 523,
+						"h": 451
+					},
+					"sourceSize": {
+						"w": 523,
+						"h": 451
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x13",
+					"frame": {
+						"x": 548,
+						"y": 1309,
+						"w": 400,
+						"h": 345
+					},
+					"sourceSize": {
+						"w": 400,
+						"h": 345
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x2",
+					"frame": {
+						"x": 1050,
+						"y": 0,
+						"w": 473,
+						"h": 401
+					},
+					"sourceSize": {
+						"w": 473,
+						"h": 401
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x3",
+					"frame": {
+						"x": 1452,
+						"y": 793,
+						"w": 350,
+						"h": 297
+					},
+					"sourceSize": {
+						"w": 350,
+						"h": 297
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x4",
+					"frame": {
+						"x": 548,
+						"y": 906,
+						"w": 473,
+						"h": 401
+					},
+					"sourceSize": {
+						"w": 473,
+						"h": 401
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x5",
+					"frame": {
+						"x": 1427,
+						"y": 1145,
+						"w": 375,
+						"h": 318
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 318
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x6",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 523,
+						"h": 451
+					},
+					"sourceSize": {
+						"w": 523,
+						"h": 451
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x7",
+					"frame": {
+						"x": 0,
+						"y": 1310,
+						"w": 375,
+						"h": 324
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 324
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x8",
+					"frame": {
+						"x": 0,
+						"y": 453,
+						"w": 523,
+						"h": 451
+					},
+					"sourceSize": {
+						"w": 523,
+						"h": 451
+					},
+					"rotated": false
+				},
+				{
+					"filename": "loading_welcome_x9",
+					"frame": {
+						"x": 1050,
+						"y": 403,
+						"w": 450,
+						"h": 388
+					},
+					"sourceSize": {
+						"w": 450,
+						"h": 388
+					},
+					"rotated": false
+				},
+				{
+					"filename": "transparent_pixel",
+					"frame": {
+						"x": 377,
+						"y": 1310,
+						"w": 2,
+						"h": 2
+					},
+					"sourceSize": {
+						"w": 2,
+						"h": 2
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,504 @@
+{
+	"textures": [
+		{
+			"image": "sprites/buttons/buttons.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 2991,
+				"w": 3187
+			},
+			"frames": [
+				{
+					"filename": "boxStand",
+					"frame": {
+						"x": 1307,
+						"y": 2631,
+						"w": 150,
+						"h": 249
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 249
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitDoorDisable",
+					"frame": {
+						"x": 2564,
+						"y": 667,
+						"w": 424,
+						"h": 665
+					},
+					"sourceSize": {
+						"w": 424,
+						"h": 665
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitDoorNormal",
+					"frame": {
+						"x": 2564,
+						"y": 1334,
+						"w": 424,
+						"h": 665
+					},
+					"sourceSize": {
+						"w": 424,
+						"h": 665
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitDoorOpen",
+					"frame": {
+						"x": 1733,
+						"y": 1964,
+						"w": 424,
+						"h": 665
+					},
+					"sourceSize": {
+						"w": 424,
+						"h": 665
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitDoorOpenSurround",
+					"frame": {
+						"x": 681,
+						"y": 1964,
+						"w": 624,
+						"h": 765
+					},
+					"sourceSize": {
+						"w": 624,
+						"h": 765
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitDoorOver",
+					"frame": {
+						"x": 1307,
+						"y": 1964,
+						"w": 424,
+						"h": 665
+					},
+					"sourceSize": {
+						"w": 424,
+						"h": 665
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitDoorWhite",
+					"frame": {
+						"x": 2564,
+						"y": 0,
+						"w": 424,
+						"h": 665
+					},
+					"sourceSize": {
+						"w": 424,
+						"h": 665
+					},
+					"rotated": false
+				},
+				{
+					"filename": "glow",
+					"frame": {
+						"x": 1137,
+						"y": 2742,
+						"w": 150,
+						"h": 150
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 150
+					},
+					"rotated": false
+				},
+				{
+					"filename": "key_red",
+					"frame": {
+						"x": 1137,
+						"y": 2894,
+						"w": 163,
+						"h": 91
+					},
+					"sourceSize": {
+						"w": 163,
+						"h": 91
+					},
+					"rotated": false
+				},
+				{
+					"filename": "key_red_glow",
+					"frame": {
+						"x": 1598,
+						"y": 2767,
+						"w": 163,
+						"h": 91
+					},
+					"sourceSize": {
+						"w": 163,
+						"h": 91
+					},
+					"rotated": false
+				},
+				{
+					"filename": "key_yellow",
+					"frame": {
+						"x": 1869,
+						"y": 2631,
+						"w": 163,
+						"h": 91
+					},
+					"sourceSize": {
+						"w": 163,
+						"h": 91
+					},
+					"rotated": false
+				},
+				{
+					"filename": "key_yellow_glow",
+					"frame": {
+						"x": 1598,
+						"y": 2860,
+						"w": 163,
+						"h": 91
+					},
+					"sourceSize": {
+						"w": 163,
+						"h": 91
+					},
+					"rotated": false
+				},
+				{
+					"filename": "move_btn_disable",
+					"frame": {
+						"x": 2990,
+						"y": 508,
+						"w": 100,
+						"h": 600
+					},
+					"sourceSize": {
+						"w": 100,
+						"h": 600
+					},
+					"rotated": false
+				},
+				{
+					"filename": "move_btn_glow",
+					"frame": {
+						"x": 2990,
+						"y": 1110,
+						"w": 120,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 120,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "move_btn_normal",
+					"frame": {
+						"x": 2564,
+						"y": 2509,
+						"w": 110,
+						"h": 480
+					},
+					"sourceSize": {
+						"w": 110,
+						"h": 480
+					},
+					"rotated": false
+				},
+				{
+					"filename": "move_btn_over",
+					"frame": {
+						"x": 2990,
+						"y": 1612,
+						"w": 120,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 120,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "move_btn_press",
+					"frame": {
+						"x": 2990,
+						"y": 2114,
+						"w": 120,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 120,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "musicBox",
+					"frame": {
+						"x": 1459,
+						"y": 2767,
+						"w": 137,
+						"h": 130
+					},
+					"sourceSize": {
+						"w": 137,
+						"h": 130
+					},
+					"rotated": false
+				},
+				{
+					"filename": "musicBoxBroken",
+					"frame": {
+						"x": 786,
+						"y": 2742,
+						"w": 349,
+						"h": 156
+					},
+					"sourceSize": {
+						"w": 349,
+						"h": 156
+					},
+					"rotated": false
+				},
+				{
+					"filename": "musicBoxHandle",
+					"frame": {
+						"x": 786,
+						"y": 2900,
+						"w": 110,
+						"h": 41
+					},
+					"sourceSize": {
+						"w": 110,
+						"h": 41
+					},
+					"rotated": false
+				},
+				{
+					"filename": "placard",
+					"frame": {
+						"x": 1677,
+						"y": 2631,
+						"w": 190,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 108
+					},
+					"rotated": false
+				},
+				{
+					"filename": "placard_hover",
+					"frame": {
+						"x": 1459,
+						"y": 2631,
+						"w": 216,
+						"h": 134
+					},
+					"sourceSize": {
+						"w": 216,
+						"h": 134
+					},
+					"rotated": false
+				},
+				{
+					"filename": "powerSwitchDisabled",
+					"frame": {
+						"x": 262,
+						"y": 2742,
+						"w": 260,
+						"h": 226
+					},
+					"sourceSize": {
+						"w": 260,
+						"h": 226
+					},
+					"rotated": false
+				},
+				{
+					"filename": "powerSwitchHover",
+					"frame": {
+						"x": 524,
+						"y": 2742,
+						"w": 260,
+						"h": 226
+					},
+					"sourceSize": {
+						"w": 260,
+						"h": 226
+					},
+					"rotated": false
+				},
+				{
+					"filename": "powerSwitchNormal",
+					"frame": {
+						"x": 0,
+						"y": 2742,
+						"w": 260,
+						"h": 226
+					},
+					"sourceSize": {
+						"w": 260,
+						"h": 226
+					},
+					"rotated": false
+				},
+				{
+					"filename": "sparkle",
+					"frame": {
+						"x": 1307,
+						"y": 2882,
+						"w": 100,
+						"h": 100
+					},
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_arrow",
+					"frame": {
+						"x": 2159,
+						"y": 1964,
+						"w": 395,
+						"h": 506
+					},
+					"sourceSize": {
+						"w": 395,
+						"h": 506
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_disabled",
+					"frame": {
+						"x": 2990,
+						"y": 0,
+						"w": 195,
+						"h": 506
+					},
+					"sourceSize": {
+						"w": 195,
+						"h": 506
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_display",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1280,
+						"h": 980
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 980
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_display_2",
+					"frame": {
+						"x": 1282,
+						"y": 982,
+						"w": 1280,
+						"h": 980
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 980
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_display_3",
+					"frame": {
+						"x": 1282,
+						"y": 0,
+						"w": 1280,
+						"h": 980
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 980
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_display_4",
+					"frame": {
+						"x": 0,
+						"y": 982,
+						"w": 1280,
+						"h": 980
+					},
+					"sourceSize": {
+						"w": 1280,
+						"h": 980
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_hover",
+					"frame": {
+						"x": 2564,
+						"y": 2001,
+						"w": 395,
+						"h": 506
+					},
+					"sourceSize": {
+						"w": 395,
+						"h": 506
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_normal",
+					"frame": {
+						"x": 2159,
+						"y": 2472,
+						"w": 395,
+						"h": 506
+					},
+					"sourceSize": {
+						"w": 395,
+						"h": 506
+					},
+					"rotated": false
+				},
+				{
+					"filename": "stand_void_glow",
+					"frame": {
+						"x": 0,
+						"y": 1964,
+						"w": 679,
+						"h": 776
+					},
+					"sourceSize": {
+						"w": 679,
+						"h": 776
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

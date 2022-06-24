@@ -1,0 +1,154 @@
+{
+	"textures": [
+		{
+			"image": "sprites/backgrounds/backgrounds.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 4008,
+				"w": 3906
+			},
+			"frames": [
+				{
+					"filename": "bg0",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg1",
+					"frame": {
+						"x": 0,
+						"y": 1002,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg2",
+					"frame": {
+						"x": 1302,
+						"y": 0,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg3",
+					"frame": {
+						"x": 1302,
+						"y": 1002,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg4",
+					"frame": {
+						"x": 0,
+						"y": 2004,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg5",
+					"frame": {
+						"x": 1302,
+						"y": 2004,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg6",
+					"frame": {
+						"x": 2604,
+						"y": 0,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg7",
+					"frame": {
+						"x": 2604,
+						"y": 1002,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg8",
+					"frame": {
+						"x": 0,
+						"y": 3006,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "bg9",
+					"frame": {
+						"x": 1302,
+						"y": 3006,
+						"w": 1300,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 1000
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

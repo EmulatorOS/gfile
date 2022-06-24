@@ -1,0 +1,70 @@
+{
+	"textures": [
+		{
+			"image": "sprites/staticscreens/staticscreens.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 1324,
+				"w": 1764
+			},
+			"frames": [
+				{
+					"filename": "static0",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 880,
+						"h": 660
+					},
+					"sourceSize": {
+						"w": 880,
+						"h": 660
+					},
+					"rotated": false
+				},
+				{
+					"filename": "static1",
+					"frame": {
+						"x": 0,
+						"y": 662,
+						"w": 880,
+						"h": 660
+					},
+					"sourceSize": {
+						"w": 880,
+						"h": 660
+					},
+					"rotated": false
+				},
+				{
+					"filename": "static2",
+					"frame": {
+						"x": 882,
+						"y": 0,
+						"w": 880,
+						"h": 660
+					},
+					"sourceSize": {
+						"w": 880,
+						"h": 660
+					},
+					"rotated": false
+				},
+				{
+					"filename": "static3",
+					"frame": {
+						"x": 882,
+						"y": 662,
+						"w": 880,
+						"h": 660
+					},
+					"sourceSize": {
+						"w": 880,
+						"h": 660
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

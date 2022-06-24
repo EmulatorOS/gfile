@@ -1,0 +1,210 @@
+{
+	"textures": [
+		{
+			"image": "sprites/misc/misc.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 1904,
+				"w": 2802
+			},
+			"frames": [
+				{
+					"filename": "arrow",
+					"frame": {
+						"x": 1253,
+						"y": 1804,
+						"w": 200,
+						"h": 50
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 50
+					},
+					"rotated": false
+				},
+				{
+					"filename": "arrowFat",
+					"frame": {
+						"x": 1148,
+						"y": 1737,
+						"w": 100,
+						"h": 80
+					},
+					"sourceSize": {
+						"w": 100,
+						"h": 80
+					},
+					"rotated": false
+				},
+				{
+					"filename": "blight",
+					"frame": {
+						"x": 376,
+						"y": 1602,
+						"w": 300,
+						"h": 300
+					},
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"rotated": false
+				},
+				{
+					"filename": "blighteye",
+					"frame": {
+						"x": 980,
+						"y": 1737,
+						"w": 166,
+						"h": 121
+					},
+					"sourceSize": {
+						"w": 166,
+						"h": 121
+					},
+					"rotated": false
+				},
+				{
+					"filename": "blighthaze",
+					"frame": {
+						"x": 678,
+						"y": 1602,
+						"w": 300,
+						"h": 300
+					},
+					"sourceSize": {
+						"w": 300,
+						"h": 300
+					},
+					"rotated": false
+				},
+				{
+					"filename": "emergencyglow",
+					"frame": {
+						"x": 0,
+						"y": 1602,
+						"w": 374,
+						"h": 250
+					},
+					"sourceSize": {
+						"w": 374,
+						"h": 250
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exitglow",
+					"frame": {
+						"x": 980,
+						"y": 1602,
+						"w": 271,
+						"h": 133
+					},
+					"sourceSize": {
+						"w": 271,
+						"h": 133
+					},
+					"rotated": false
+				},
+				{
+					"filename": "flower1",
+					"frame": {
+						"x": 1884,
+						"y": 1602,
+						"w": 132,
+						"h": 200
+					},
+					"sourceSize": {
+						"w": 132,
+						"h": 200
+					},
+					"rotated": false
+				},
+				{
+					"filename": "flower2",
+					"frame": {
+						"x": 1746,
+						"y": 1602,
+						"w": 136,
+						"h": 200
+					},
+					"sourceSize": {
+						"w": 136,
+						"h": 200
+					},
+					"rotated": false
+				},
+				{
+					"filename": "flower3",
+					"frame": {
+						"x": 1607,
+						"y": 1602,
+						"w": 137,
+						"h": 200
+					},
+					"sourceSize": {
+						"w": 137,
+						"h": 200
+					},
+					"rotated": false
+				},
+				{
+					"filename": "flower4",
+					"frame": {
+						"x": 1433,
+						"y": 1602,
+						"w": 172,
+						"h": 200
+					},
+					"sourceSize": {
+						"w": 172,
+						"h": 200
+					},
+					"rotated": false
+				},
+				{
+					"filename": "flower5",
+					"frame": {
+						"x": 1253,
+						"y": 1602,
+						"w": 178,
+						"h": 200
+					},
+					"sourceSize": {
+						"w": 178,
+						"h": 200
+					},
+					"rotated": false
+				},
+				{
+					"filename": "note",
+					"frame": {
+						"x": 1148,
+						"y": 1819,
+						"w": 37,
+						"h": 58
+					},
+					"sourceSize": {
+						"w": 37,
+						"h": 58
+					},
+					"rotated": false
+				},
+				{
+					"filename": "scrollworld",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 2800,
+						"h": 1600
+					},
+					"sourceSize": {
+						"w": 2800,
+						"h": 1600
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

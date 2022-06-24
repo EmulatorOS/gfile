@@ -1,0 +1,294 @@
+{
+	"textures": [
+		{
+			"image": "sprites/roomfaucet/roomfaucet.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 2008,
+				"w": 1860
+			},
+			"frames": [
+				{
+					"filename": "duck",
+					"frame": {
+						"x": 1429,
+						"y": 0,
+						"w": 429,
+						"h": 317
+					},
+					"sourceSize": {
+						"w": 429,
+						"h": 317
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hose",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 775,
+						"h": 614
+					},
+					"sourceSize": {
+						"w": 775,
+						"h": 614
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hosebroken",
+					"frame": {
+						"x": 0,
+						"y": 616,
+						"w": 775,
+						"h": 614
+					},
+					"sourceSize": {
+						"w": 775,
+						"h": 614
+					},
+					"rotated": false
+				},
+				{
+					"filename": "ink1",
+					"frame": {
+						"x": 1621,
+						"y": 711,
+						"w": 116,
+						"h": 166
+					},
+					"sourceSize": {
+						"w": 116,
+						"h": 166
+					},
+					"rotated": false
+				},
+				{
+					"filename": "lever",
+					"frame": {
+						"x": 1701,
+						"y": 1015,
+						"w": 95,
+						"h": 510
+					},
+					"sourceSize": {
+						"w": 95,
+						"h": 510
+					},
+					"rotated": false
+				},
+				{
+					"filename": "leverbroken",
+					"frame": {
+						"x": 1429,
+						"y": 1437,
+						"w": 95,
+						"h": 510
+					},
+					"sourceSize": {
+						"w": 95,
+						"h": 510
+					},
+					"rotated": false
+				},
+				{
+					"filename": "leverhalfbroken",
+					"frame": {
+						"x": 652,
+						"y": 1232,
+						"w": 116,
+						"h": 514
+					},
+					"sourceSize": {
+						"w": 116,
+						"h": 514
+					},
+					"rotated": false
+				},
+				{
+					"filename": "pipe1",
+					"frame": {
+						"x": 1429,
+						"y": 319,
+						"w": 181,
+						"h": 390
+					},
+					"sourceSize": {
+						"w": 181,
+						"h": 390
+					},
+					"rotated": false
+				},
+				{
+					"filename": "pipe2",
+					"frame": {
+						"x": 1429,
+						"y": 711,
+						"w": 190,
+						"h": 302
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 302
+					},
+					"rotated": false
+				},
+				{
+					"filename": "pipe3",
+					"frame": {
+						"x": 1612,
+						"y": 319,
+						"w": 182,
+						"h": 276
+					},
+					"sourceSize": {
+						"w": 182,
+						"h": 276
+					},
+					"rotated": false
+				},
+				{
+					"filename": "pipe4",
+					"frame": {
+						"x": 1429,
+						"y": 1229,
+						"w": 255,
+						"h": 206
+					},
+					"sourceSize": {
+						"w": 255,
+						"h": 206
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait",
+					"frame": {
+						"x": 0,
+						"y": 1734,
+						"w": 270,
+						"h": 212
+					},
+					"sourceSize": {
+						"w": 270,
+						"h": 212
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portraitBlack",
+					"frame": {
+						"x": 1429,
+						"y": 1015,
+						"w": 270,
+						"h": 212
+					},
+					"sourceSize": {
+						"w": 270,
+						"h": 212
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portraitRed",
+					"frame": {
+						"x": 272,
+						"y": 1734,
+						"w": 270,
+						"h": 212
+					},
+					"sourceSize": {
+						"w": 270,
+						"h": 212
+					},
+					"rotated": false
+				},
+				{
+					"filename": "washyDrowned",
+					"frame": {
+						"x": 777,
+						"y": 0,
+						"w": 650,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 650,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "washyHappy",
+					"frame": {
+						"x": 777,
+						"y": 502,
+						"w": 650,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 650,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "washyNeutral",
+					"frame": {
+						"x": 0,
+						"y": 1232,
+						"w": 650,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 650,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "washyRelaxed",
+					"frame": {
+						"x": 777,
+						"y": 1004,
+						"w": 650,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 650,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "washyWorried",
+					"frame": {
+						"x": 777,
+						"y": 1506,
+						"w": 650,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 650,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "waterdrop",
+					"frame": {
+						"x": 1612,
+						"y": 597,
+						"w": 22,
+						"h": 36
+					},
+					"sourceSize": {
+						"w": 22,
+						"h": 36
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

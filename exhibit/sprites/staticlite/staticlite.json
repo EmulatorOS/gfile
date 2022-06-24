@@ -1,0 +1,182 @@
+{
+	"textures": [
+		{
+			"image": "sprites/staticscreens/staticlite.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 520,
+				"w": 486
+			},
+			"frames": [
+				{
+					"filename": "staticlite0",
+					"frame": {
+						"x": 425,
+						"y": 18,
+						"w": 30,
+						"h": 7
+					},
+					"sourceSize": {
+						"w": 30,
+						"h": 7
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite1",
+					"frame": {
+						"x": 252,
+						"y": 479,
+						"w": 200,
+						"h": 20
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 20
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite10",
+					"frame": {
+						"x": 0,
+						"y": 285,
+						"w": 250,
+						"h": 233
+					},
+					"sourceSize": {
+						"w": 250,
+						"h": 233
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite11",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 296,
+						"h": 283
+					},
+					"sourceSize": {
+						"w": 296,
+						"h": 283
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite2",
+					"frame": {
+						"x": 425,
+						"y": 0,
+						"w": 18,
+						"h": 16
+					},
+					"sourceSize": {
+						"w": 18,
+						"h": 16
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite3",
+					"frame": {
+						"x": 340,
+						"y": 229,
+						"w": 25,
+						"h": 22
+					},
+					"sourceSize": {
+						"w": 25,
+						"h": 22
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite4",
+					"frame": {
+						"x": 298,
+						"y": 229,
+						"w": 40,
+						"h": 48
+					},
+					"sourceSize": {
+						"w": 40,
+						"h": 48
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite5",
+					"frame": {
+						"x": 340,
+						"y": 253,
+						"w": 40,
+						"h": 12
+					},
+					"sourceSize": {
+						"w": 40,
+						"h": 12
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite6",
+					"frame": {
+						"x": 298,
+						"y": 119,
+						"w": 124,
+						"h": 108
+					},
+					"sourceSize": {
+						"w": 124,
+						"h": 108
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite7",
+					"frame": {
+						"x": 424,
+						"y": 119,
+						"w": 60,
+						"h": 64
+					},
+					"sourceSize": {
+						"w": 60,
+						"h": 64
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite8",
+					"frame": {
+						"x": 252,
+						"y": 285,
+						"w": 204,
+						"h": 192
+					},
+					"sourceSize": {
+						"w": 204,
+						"h": 192
+					},
+					"rotated": false
+				},
+				{
+					"filename": "staticlite9",
+					"frame": {
+						"x": 298,
+						"y": 0,
+						"w": 125,
+						"h": 117
+					},
+					"sourceSize": {
+						"w": 125,
+						"h": 117
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,280 @@
+{
+	"textures": [
+		{
+			"image": "sprites/clown/clown.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 3586,
+				"w": 3531
+			},
+			"frames": [
+				{
+					"filename": "clowncreepy",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1880,
+						"h": 1520
+					},
+					"sourceSize": {
+						"w": 1880,
+						"h": 1520
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clowndoor",
+					"frame": {
+						"x": 2911,
+						"y": 2144,
+						"w": 451,
+						"h": 370
+					},
+					"sourceSize": {
+						"w": 451,
+						"h": 370
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownhand",
+					"frame": {
+						"x": 3236,
+						"y": 672,
+						"w": 240,
+						"h": 240
+					},
+					"sourceSize": {
+						"w": 240,
+						"h": 240
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownlarge1",
+					"frame": {
+						"x": 2911,
+						"y": 1140,
+						"w": 618,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 618,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownlarge2",
+					"frame": {
+						"x": 2911,
+						"y": 1642,
+						"w": 618,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 618,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownlarge3",
+					"frame": {
+						"x": 852,
+						"y": 3044,
+						"w": 681,
+						"h": 524
+					},
+					"sourceSize": {
+						"w": 681,
+						"h": 524
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownnormal",
+					"frame": {
+						"x": 0,
+						"y": 1522,
+						"w": 1880,
+						"h": 1520
+					},
+					"sourceSize": {
+						"w": 1880,
+						"h": 1520
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownsmall1",
+					"frame": {
+						"x": 3236,
+						"y": 0,
+						"w": 277,
+						"h": 222
+					},
+					"sourceSize": {
+						"w": 277,
+						"h": 222
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownsmall2",
+					"frame": {
+						"x": 3236,
+						"y": 224,
+						"w": 277,
+						"h": 222
+					},
+					"sourceSize": {
+						"w": 277,
+						"h": 222
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownsmall3",
+					"frame": {
+						"x": 3236,
+						"y": 448,
+						"w": 277,
+						"h": 222
+					},
+					"sourceSize": {
+						"w": 277,
+						"h": 222
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownunleashed",
+					"frame": {
+						"x": 1882,
+						"y": 2628,
+						"w": 818,
+						"h": 840
+					},
+					"sourceSize": {
+						"w": 818,
+						"h": 840
+					},
+					"rotated": false
+				},
+				{
+					"filename": "clownunleashed2",
+					"frame": {
+						"x": 1882,
+						"y": 0,
+						"w": 1352,
+						"h": 1138
+					},
+					"sourceSize": {
+						"w": 1352,
+						"h": 1138
+					},
+					"rotated": false
+				},
+				{
+					"filename": "leftEye",
+					"frame": {
+						"x": 3236,
+						"y": 959,
+						"w": 40,
+						"h": 43
+					},
+					"sourceSize": {
+						"w": 40,
+						"h": 43
+					},
+					"rotated": false
+				},
+				{
+					"filename": "mouthlarge",
+					"frame": {
+						"x": 2702,
+						"y": 2628,
+						"w": 681,
+						"h": 524
+					},
+					"sourceSize": {
+						"w": 681,
+						"h": 524
+					},
+					"rotated": false
+				},
+				{
+					"filename": "noseglow",
+					"frame": {
+						"x": 2702,
+						"y": 3154,
+						"w": 393,
+						"h": 317
+					},
+					"sourceSize": {
+						"w": 393,
+						"h": 317
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait",
+					"frame": {
+						"x": 1882,
+						"y": 1884,
+						"w": 1027,
+						"h": 742
+					},
+					"sourceSize": {
+						"w": 1027,
+						"h": 742
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portraitWhite",
+					"frame": {
+						"x": 0,
+						"y": 3044,
+						"w": 850,
+						"h": 540
+					},
+					"sourceSize": {
+						"w": 850,
+						"h": 540
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portraitbroken",
+					"frame": {
+						"x": 1882,
+						"y": 1140,
+						"w": 1027,
+						"h": 742
+					},
+					"sourceSize": {
+						"w": 1027,
+						"h": 742
+					},
+					"rotated": false
+				},
+				{
+					"filename": "rightEye",
+					"frame": {
+						"x": 3236,
+						"y": 914,
+						"w": 45,
+						"h": 43
+					},
+					"sourceSize": {
+						"w": 45,
+						"h": 43
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

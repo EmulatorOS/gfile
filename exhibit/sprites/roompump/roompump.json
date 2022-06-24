@@ -1,0 +1,266 @@
+{
+	"textures": [
+		{
+			"image": "sprites/roompump/roompump.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 2084,
+				"w": 1974
+			},
+			"frames": [
+				{
+					"filename": "balloonFloaty1",
+					"frame": {
+						"x": 0,
+						"y": 712,
+						"w": 512,
+						"h": 769
+					},
+					"sourceSize": {
+						"w": 512,
+						"h": 769
+					},
+					"rotated": false
+				},
+				{
+					"filename": "balloonFloaty2",
+					"frame": {
+						"x": 514,
+						"y": 712,
+						"w": 469,
+						"h": 801
+					},
+					"sourceSize": {
+						"w": 469,
+						"h": 801
+					},
+					"rotated": false
+				},
+				{
+					"filename": "button",
+					"frame": {
+						"x": 0,
+						"y": 1914,
+						"w": 150,
+						"h": 70
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 70
+					},
+					"rotated": false
+				},
+				{
+					"filename": "compressor",
+					"frame": {
+						"x": 514,
+						"y": 1857,
+						"w": 201,
+						"h": 222
+					},
+					"sourceSize": {
+						"w": 201,
+						"h": 222
+					},
+					"rotated": false
+				},
+				{
+					"filename": "fan",
+					"frame": {
+						"x": 1789,
+						"y": 532,
+						"w": 111,
+						"h": 107
+					},
+					"sourceSize": {
+						"w": 111,
+						"h": 107
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty1",
+					"frame": {
+						"x": 1587,
+						"y": 1004,
+						"w": 190,
+						"h": 240
+					},
+					"sourceSize": {
+						"w": 190,
+						"h": 240
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty2",
+					"frame": {
+						"x": 1589,
+						"y": 1254,
+						"w": 278,
+						"h": 280
+					},
+					"sourceSize": {
+						"w": 278,
+						"h": 280
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty3",
+					"frame": {
+						"x": 1587,
+						"y": 712,
+						"w": 300,
+						"h": 290
+					},
+					"sourceSize": {
+						"w": 300,
+						"h": 290
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty4",
+					"frame": {
+						"x": 514,
+						"y": 1515,
+						"w": 365,
+						"h": 340
+					},
+					"sourceSize": {
+						"w": 365,
+						"h": 340
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty5",
+					"frame": {
+						"x": 0,
+						"y": 1483,
+						"w": 458,
+						"h": 429
+					},
+					"sourceSize": {
+						"w": 458,
+						"h": 429
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty6",
+					"frame": {
+						"x": 1397,
+						"y": 0,
+						"w": 575,
+						"h": 530
+					},
+					"sourceSize": {
+						"w": 575,
+						"h": 530
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floaty7",
+					"frame": {
+						"x": 985,
+						"y": 712,
+						"w": 600,
+						"h": 540
+					},
+					"sourceSize": {
+						"w": 600,
+						"h": 540
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floatyX",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 700,
+						"h": 710
+					},
+					"sourceSize": {
+						"w": 700,
+						"h": 710
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floatyY",
+					"frame": {
+						"x": 702,
+						"y": 0,
+						"w": 693,
+						"h": 689
+					},
+					"sourceSize": {
+						"w": 693,
+						"h": 689
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesFloaty1",
+					"frame": {
+						"x": 985,
+						"y": 1254,
+						"w": 602,
+						"h": 413
+					},
+					"sourceSize": {
+						"w": 602,
+						"h": 413
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesFloaty2",
+					"frame": {
+						"x": 985,
+						"y": 1669,
+						"w": 602,
+						"h": 413
+					},
+					"sourceSize": {
+						"w": 602,
+						"h": 413
+					},
+					"rotated": false
+				},
+				{
+					"filename": "frameskid",
+					"frame": {
+						"x": 717,
+						"y": 1857,
+						"w": 194,
+						"h": 202
+					},
+					"sourceSize": {
+						"w": 194,
+						"h": 202
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hose",
+					"frame": {
+						"x": 1397,
+						"y": 532,
+						"w": 390,
+						"h": 118
+					},
+					"sourceSize": {
+						"w": 390,
+						"h": 118
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

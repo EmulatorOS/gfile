@@ -1,0 +1,490 @@
+{
+	"textures": [
+		{
+			"image": "sprites/roomjack/roomjack.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 3195,
+				"w": 3656
+			},
+			"frames": [
+				{
+					"filename": "box",
+					"frame": {
+						"x": 3133,
+						"y": 2895,
+						"w": 216,
+						"h": 213
+					},
+					"sourceSize": {
+						"w": 216,
+						"h": 213
+					},
+					"rotated": false
+				},
+				{
+					"filename": "doll",
+					"frame": {
+						"x": 2998,
+						"y": 0,
+						"w": 500,
+						"h": 331
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 331
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollEyeless",
+					"frame": {
+						"x": 2998,
+						"y": 333,
+						"w": 500,
+						"h": 331
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 331
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollEyelessSmile",
+					"frame": {
+						"x": 2886,
+						"y": 1304,
+						"w": 500,
+						"h": 331
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 331
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollEyes",
+					"frame": {
+						"x": 2415,
+						"y": 2106,
+						"w": 500,
+						"h": 331
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 331
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollEyesFake",
+					"frame": {
+						"x": 2998,
+						"y": 760,
+						"w": 112,
+						"h": 26
+					},
+					"sourceSize": {
+						"w": 112,
+						"h": 26
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollcreepy",
+					"frame": {
+						"x": 1202,
+						"y": 0,
+						"w": 500,
+						"h": 3000
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 3000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollface",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1200,
+						"h": 1600
+					},
+					"sourceSize": {
+						"w": 1200,
+						"h": 1600
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollmouth",
+					"frame": {
+						"x": 0,
+						"y": 1602,
+						"w": 1200,
+						"h": 1008
+					},
+					"sourceSize": {
+						"w": 1200,
+						"h": 1008
+					},
+					"rotated": false
+				},
+				{
+					"filename": "floor",
+					"frame": {
+						"x": 1704,
+						"y": 2828,
+						"w": 1300,
+						"h": 163
+					},
+					"sourceSize": {
+						"w": 1300,
+						"h": 163
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hand1",
+					"frame": {
+						"x": 2415,
+						"y": 2661,
+						"w": 300,
+						"h": 135
+					},
+					"sourceSize": {
+						"w": 300,
+						"h": 135
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hand2",
+					"frame": {
+						"x": 1004,
+						"y": 2612,
+						"w": 150,
+						"h": 365
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 365
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hand3",
+					"frame": {
+						"x": 2886,
+						"y": 1637,
+						"w": 340,
+						"h": 280
+					},
+					"sourceSize": {
+						"w": 340,
+						"h": 280
+					},
+					"rotated": false
+				},
+				{
+					"filename": "jack_flashes_rough_1",
+					"frame": {
+						"x": 1704,
+						"y": 0,
+						"w": 1292,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1292,
+						"h": 800
+					},
+					"rotated": false
+				},
+				{
+					"filename": "jack_flashes_rough_2",
+					"frame": {
+						"x": 1704,
+						"y": 1304,
+						"w": 1180,
+						"h": 800
+					},
+					"sourceSize": {
+						"w": 1180,
+						"h": 800
+					},
+					"rotated": false
+				},
+				{
+					"filename": "lid",
+					"frame": {
+						"x": 2886,
+						"y": 1919,
+						"w": 417,
+						"h": 146
+					},
+					"sourceSize": {
+						"w": 417,
+						"h": 146
+					},
+					"rotated": false
+				},
+				{
+					"filename": "lights2",
+					"frame": {
+						"x": 1704,
+						"y": 802,
+						"w": 1950,
+						"h": 500
+					},
+					"sourceSize": {
+						"w": 1950,
+						"h": 500
+					},
+					"rotated": false
+				},
+				{
+					"filename": "lowerArm",
+					"frame": {
+						"x": 2998,
+						"y": 666,
+						"w": 520,
+						"h": 92
+					},
+					"sourceSize": {
+						"w": 520,
+						"h": 92
+					},
+					"rotated": false
+				},
+				{
+					"filename": "midArm",
+					"frame": {
+						"x": 2750,
+						"y": 3002,
+						"w": 240,
+						"h": 96
+					},
+					"sourceSize": {
+						"w": 240,
+						"h": 96
+					},
+					"rotated": false
+				},
+				{
+					"filename": "neck",
+					"frame": {
+						"x": 1704,
+						"y": 2106,
+						"w": 709,
+						"h": 720
+					},
+					"sourceSize": {
+						"w": 709,
+						"h": 720
+					},
+					"rotated": false
+				},
+				{
+					"filename": "pedestal",
+					"frame": {
+						"x": 2415,
+						"y": 2439,
+						"w": 514,
+						"h": 220
+					},
+					"sourceSize": {
+						"w": 514,
+						"h": 220
+					},
+					"rotated": false
+				},
+				{
+					"filename": "popup1",
+					"frame": {
+						"x": 0,
+						"y": 2612,
+						"w": 500,
+						"h": 520
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 520
+					},
+					"rotated": false
+				},
+				{
+					"filename": "popup2",
+					"frame": {
+						"x": 502,
+						"y": 2612,
+						"w": 500,
+						"h": 520
+					},
+					"sourceSize": {
+						"w": 500,
+						"h": 520
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait1",
+					"frame": {
+						"x": 3133,
+						"y": 2439,
+						"w": 220,
+						"h": 226
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 226
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait2",
+					"frame": {
+						"x": 3133,
+						"y": 2667,
+						"w": 220,
+						"h": 226
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 226
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait3",
+					"frame": {
+						"x": 3388,
+						"y": 2591,
+						"w": 220,
+						"h": 226
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 226
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait4",
+					"frame": {
+						"x": 2917,
+						"y": 2106,
+						"w": 200,
+						"h": 283
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 283
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait4x",
+					"frame": {
+						"x": 3119,
+						"y": 2106,
+						"w": 200,
+						"h": 283
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 283
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait5",
+					"frame": {
+						"x": 2931,
+						"y": 2439,
+						"w": 200,
+						"h": 344
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 344
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait6",
+					"frame": {
+						"x": 3388,
+						"y": 2059,
+						"w": 200,
+						"h": 530
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 530
+					},
+					"rotated": false
+				},
+				{
+					"filename": "portrait7",
+					"frame": {
+						"x": 3388,
+						"y": 1304,
+						"w": 200,
+						"h": 753
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 753
+					},
+					"rotated": false
+				},
+				{
+					"filename": "spinner",
+					"frame": {
+						"x": 0,
+						"y": 3134,
+						"w": 284,
+						"h": 54
+					},
+					"sourceSize": {
+						"w": 284,
+						"h": 54
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamers",
+					"frame": {
+						"x": 1202,
+						"y": 3002,
+						"w": 1546,
+						"h": 168
+					},
+					"sourceSize": {
+						"w": 1546,
+						"h": 168
+					},
+					"rotated": false
+				},
+				{
+					"filename": "upperArm",
+					"frame": {
+						"x": 3133,
+						"y": 3110,
+						"w": 450,
+						"h": 83
+					},
+					"sourceSize": {
+						"w": 450,
+						"h": 83
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,406 @@
+{
+	"textures": [
+		{
+			"image": "sprites/menu/menu.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 3075,
+				"w": 2757
+			},
+			"frames": [
+				{
+					"filename": "credits",
+					"frame": {
+						"x": 1157,
+						"y": 2004,
+						"w": 804,
+						"h": 626
+					},
+					"sourceSize": {
+						"w": 804,
+						"h": 626
+					},
+					"rotated": false
+				},
+				{
+					"filename": "credits_hover",
+					"frame": {
+						"x": 806,
+						"y": 2447,
+						"w": 280,
+						"h": 132
+					},
+					"sourceSize": {
+						"w": 280,
+						"h": 132
+					},
+					"rotated": false
+				},
+				{
+					"filename": "credits_normal",
+					"frame": {
+						"x": 806,
+						"y": 2581,
+						"w": 270,
+						"h": 122
+					},
+					"sourceSize": {
+						"w": 270,
+						"h": 122
+					},
+					"rotated": false
+				},
+				{
+					"filename": "entrancelights1",
+					"frame": {
+						"x": 1832,
+						"y": 0,
+						"w": 923,
+						"h": 714
+					},
+					"sourceSize": {
+						"w": 923,
+						"h": 714
+					},
+					"rotated": false
+				},
+				{
+					"filename": "entrancelights2",
+					"frame": {
+						"x": 1832,
+						"y": 716,
+						"w": 923,
+						"h": 714
+					},
+					"sourceSize": {
+						"w": 923,
+						"h": 714
+					},
+					"rotated": false
+				},
+				{
+					"filename": "face1",
+					"frame": {
+						"x": 806,
+						"y": 2705,
+						"w": 179,
+						"h": 125
+					},
+					"sourceSize": {
+						"w": 179,
+						"h": 125
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesEnter1",
+					"frame": {
+						"x": 1832,
+						"y": 1625,
+						"w": 375,
+						"h": 335
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 335
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesEnter2",
+					"frame": {
+						"x": 2209,
+						"y": 1625,
+						"w": 375,
+						"h": 335
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 335
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesEnter3",
+					"frame": {
+						"x": 1963,
+						"y": 2004,
+						"w": 375,
+						"h": 335
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 335
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesEnter4",
+					"frame": {
+						"x": 1157,
+						"y": 2632,
+						"w": 375,
+						"h": 335
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 335
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesEnter5",
+					"frame": {
+						"x": 1534,
+						"y": 2632,
+						"w": 375,
+						"h": 335
+					},
+					"sourceSize": {
+						"w": 375,
+						"h": 335
+					},
+					"rotated": false
+				},
+				{
+					"filename": "pupil",
+					"frame": {
+						"x": 1088,
+						"y": 2447,
+						"w": 11,
+						"h": 10
+					},
+					"sourceSize": {
+						"w": 11,
+						"h": 10
+					},
+					"rotated": false
+				},
+				{
+					"filename": "spareeye",
+					"frame": {
+						"x": 2629,
+						"y": 1432,
+						"w": 70,
+						"h": 141
+					},
+					"sourceSize": {
+						"w": 70,
+						"h": 141
+					},
+					"rotated": false
+				},
+				{
+					"filename": "star1",
+					"frame": {
+						"x": 2586,
+						"y": 1755,
+						"w": 131,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 131,
+						"h": 128
+					},
+					"rotated": false
+				},
+				{
+					"filename": "star2",
+					"frame": {
+						"x": 987,
+						"y": 2842,
+						"w": 132,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 132,
+						"h": 128
+					},
+					"rotated": false
+				},
+				{
+					"filename": "star3",
+					"frame": {
+						"x": 2494,
+						"y": 1432,
+						"w": 133,
+						"h": 135
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 135
+					},
+					"rotated": false
+				},
+				{
+					"filename": "starx1",
+					"frame": {
+						"x": 2340,
+						"y": 2134,
+						"w": 131,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 131,
+						"h": 128
+					},
+					"rotated": false
+				},
+				{
+					"filename": "starx2",
+					"frame": {
+						"x": 2586,
+						"y": 1625,
+						"w": 132,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 132,
+						"h": 128
+					},
+					"rotated": false
+				},
+				{
+					"filename": "starx3",
+					"frame": {
+						"x": 987,
+						"y": 2705,
+						"w": 133,
+						"h": 135
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 135
+					},
+					"rotated": false
+				},
+				{
+					"filename": "starx4",
+					"frame": {
+						"x": 2340,
+						"y": 2004,
+						"w": 132,
+						"h": 128
+					},
+					"sourceSize": {
+						"w": 132,
+						"h": 128
+					},
+					"rotated": false
+				},
+				{
+					"filename": "starx5",
+					"frame": {
+						"x": 806,
+						"y": 2832,
+						"w": 133,
+						"h": 135
+					},
+					"sourceSize": {
+						"w": 133,
+						"h": 135
+					},
+					"rotated": false
+				},
+				{
+					"filename": "starxs",
+					"frame": {
+						"x": 0,
+						"y": 2004,
+						"w": 1155,
+						"h": 441
+					},
+					"sourceSize": {
+						"w": 1155,
+						"h": 441
+					},
+					"rotated": false
+				},
+				{
+					"filename": "teeth",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 1830,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1830,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "teethBlack",
+					"frame": {
+						"x": 0,
+						"y": 1002,
+						"w": 1830,
+						"h": 1000
+					},
+					"sourceSize": {
+						"w": 1830,
+						"h": 1000
+					},
+					"rotated": false
+				},
+				{
+					"filename": "welcome",
+					"frame": {
+						"x": 0,
+						"y": 2447,
+						"w": 804,
+						"h": 626
+					},
+					"sourceSize": {
+						"w": 804,
+						"h": 626
+					},
+					"rotated": false
+				},
+				{
+					"filename": "welcomeText",
+					"frame": {
+						"x": 1963,
+						"y": 2528,
+						"w": 640,
+						"h": 171
+					},
+					"sourceSize": {
+						"w": 640,
+						"h": 171
+					},
+					"rotated": false
+				},
+				{
+					"filename": "welcomeTextDisable",
+					"frame": {
+						"x": 1832,
+						"y": 1432,
+						"w": 660,
+						"h": 191
+					},
+					"sourceSize": {
+						"w": 660,
+						"h": 191
+					},
+					"rotated": false
+				},
+				{
+					"filename": "welcomeTextGlow",
+					"frame": {
+						"x": 1963,
+						"y": 2341,
+						"w": 652,
+						"h": 185
+					},
+					"sourceSize": {
+						"w": 652,
+						"h": 185
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}

@@ -1,0 +1,406 @@
+{
+	"textures": [
+		{
+			"image": "sprites/roomstretch/roomstretch.png",
+			"format": "RGBA8888",
+			"size": {
+				"h": 1246,
+				"w": 1204
+			},
+			"frames": [
+				{
+					"filename": "armseg",
+					"frame": {
+						"x": 562,
+						"y": 391,
+						"w": 100,
+						"h": 11
+					},
+					"sourceSize": {
+						"w": 100,
+						"h": 11
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollAnxious",
+					"frame": {
+						"x": 562,
+						"y": 164,
+						"w": 220,
+						"h": 225
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 225
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollBody",
+					"frame": {
+						"x": 0,
+						"y": 0,
+						"w": 279,
+						"h": 406
+					},
+					"sourceSize": {
+						"w": 279,
+						"h": 406
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollDefeated",
+					"frame": {
+						"x": 281,
+						"y": 0,
+						"w": 279,
+						"h": 406
+					},
+					"sourceSize": {
+						"w": 279,
+						"h": 406
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollExpectant",
+					"frame": {
+						"x": 784,
+						"y": 164,
+						"w": 220,
+						"h": 225
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 225
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollFearful",
+					"frame": {
+						"x": 736,
+						"y": 408,
+						"w": 220,
+						"h": 225
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 225
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollHappy",
+					"frame": {
+						"x": 736,
+						"y": 635,
+						"w": 220,
+						"h": 225
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 225
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollHorrified",
+					"frame": {
+						"x": 356,
+						"y": 922,
+						"w": 220,
+						"h": 225
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 225
+					},
+					"rotated": false
+				},
+				{
+					"filename": "dollNeutral",
+					"frame": {
+						"x": 958,
+						"y": 408,
+						"w": 220,
+						"h": 225
+					},
+					"sourceSize": {
+						"w": 220,
+						"h": 225
+					},
+					"rotated": false
+				},
+				{
+					"filename": "exclamation",
+					"frame": {
+						"x": 655,
+						"y": 573,
+						"w": 50,
+						"h": 77
+					},
+					"sourceSize": {
+						"w": 50,
+						"h": 77
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesStretch1",
+					"frame": {
+						"x": 0,
+						"y": 802,
+						"w": 196,
+						"h": 238
+					},
+					"sourceSize": {
+						"w": 196,
+						"h": 238
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesStretch1x",
+					"frame": {
+						"x": 1006,
+						"y": 164,
+						"w": 196,
+						"h": 238
+					},
+					"sourceSize": {
+						"w": 196,
+						"h": 238
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesStretch2",
+					"frame": {
+						"x": 356,
+						"y": 408,
+						"w": 378,
+						"h": 163
+					},
+					"sourceSize": {
+						"w": 378,
+						"h": 163
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesStretch3",
+					"frame": {
+						"x": 0,
+						"y": 1042,
+						"w": 263,
+						"h": 160
+					},
+					"sourceSize": {
+						"w": 263,
+						"h": 160
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesStretch3x",
+					"frame": {
+						"x": 562,
+						"y": 0,
+						"w": 377,
+						"h": 162
+					},
+					"sourceSize": {
+						"w": 377,
+						"h": 162
+					},
+					"rotated": false
+				},
+				{
+					"filename": "framesStretch4",
+					"frame": {
+						"x": 202,
+						"y": 869,
+						"w": 150,
+						"h": 165
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 165
+					},
+					"rotated": false
+				},
+				{
+					"filename": "hand",
+					"frame": {
+						"x": 1093,
+						"y": 0,
+						"w": 100,
+						"h": 100
+					},
+					"sourceSize": {
+						"w": 100,
+						"h": 100
+					},
+					"rotated": false
+				},
+				{
+					"filename": "legLeft",
+					"frame": {
+						"x": 844,
+						"y": 862,
+						"w": 88,
+						"h": 382
+					},
+					"sourceSize": {
+						"w": 88,
+						"h": 382
+					},
+					"rotated": false
+				},
+				{
+					"filename": "legRight",
+					"frame": {
+						"x": 0,
+						"y": 408,
+						"w": 200,
+						"h": 392
+					},
+					"sourceSize": {
+						"w": 200,
+						"h": 392
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer1",
+					"frame": {
+						"x": 958,
+						"y": 635,
+						"w": 94,
+						"h": 418
+					},
+					"sourceSize": {
+						"w": 94,
+						"h": 418
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer2",
+					"frame": {
+						"x": 1054,
+						"y": 635,
+						"w": 109,
+						"h": 289
+					},
+					"sourceSize": {
+						"w": 109,
+						"h": 289
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer3",
+					"frame": {
+						"x": 1054,
+						"y": 926,
+						"w": 130,
+						"h": 231
+					},
+					"sourceSize": {
+						"w": 130,
+						"h": 231
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer4",
+					"frame": {
+						"x": 736,
+						"y": 862,
+						"w": 106,
+						"h": 321
+					},
+					"sourceSize": {
+						"w": 106,
+						"h": 321
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer5",
+					"frame": {
+						"x": 578,
+						"y": 922,
+						"w": 144,
+						"h": 253
+					},
+					"sourceSize": {
+						"w": 144,
+						"h": 253
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer6",
+					"frame": {
+						"x": 356,
+						"y": 573,
+						"w": 144,
+						"h": 347
+					},
+					"sourceSize": {
+						"w": 144,
+						"h": 347
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer7",
+					"frame": {
+						"x": 502,
+						"y": 573,
+						"w": 151,
+						"h": 328
+					},
+					"sourceSize": {
+						"w": 151,
+						"h": 328
+					},
+					"rotated": false
+				},
+				{
+					"filename": "streamer8",
+					"frame": {
+						"x": 202,
+						"y": 408,
+						"w": 152,
+						"h": 459
+					},
+					"sourceSize": {
+						"w": 152,
+						"h": 459
+					},
+					"rotated": false
+				},
+				{
+					"filename": "touchspot",
+					"frame": {
+						"x": 941,
+						"y": 0,
+						"w": 150,
+						"h": 154
+					},
+					"sourceSize": {
+						"w": 150,
+						"h": 154
+					},
+					"rotated": false
+				}
+			]
+		}
+	]
+}
