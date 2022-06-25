@@ -1,0 +1,358 @@
+<!doctype html>
+<html lang="en-us">
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <meta name="description" content="Cell to Singularity is a idle clicker game about the evolution of life on Earth and the history of human technology. Discover the origins of life, learn the history of science and civilization, and unlock the mysteries of the universe as you climb the Tech-Tree of life.">
+  <meta name="keywords" content="evolution,evolution game,tech tree,tree of life,singularity,darwin,clicker,tap,dna,cells,cell,cell to singularity,cells to singularity,idle,game,evo,technology,incremental game,game,tree of life,theory of evolution,god game,simulation,sim,sandbox,upgrade game,natural selection,ai,civilization,science,education,universe,space,life,upgrade,progress,quest">
+  <meta name="author" content="Computer Lunch LLC">
+  <title>Cell to Singularity - Play on the internet! - Evolution Never Ends</title>
+  
+  <!-- Mobile redirect script by https://pagecrafter.com -->
+<script type="text/javascript" src="js/redirection-mobile.js"></script><script type="text/javascript">// <![CDATA[
+SA.redirection_mobile ({
+ mobile_url : "celltosingularity.com",
+tablet_redirection: "true",
+tablet_host: "celltosingularity.com",
+ });
+ 
+// ]]></script>
+  
+  <style>
+  
+  
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+	 div#social {
+  	 position:relative;
+ 	  z-index:0; 
+		}
+	
+	.navitem{
+		
+		/*border-left: 1px solid #00BB00;*/
+	}
+	
+	.navbar{
+		border: 4px solid #222222;
+		background-color: #222222;
+		font-family: sans-serif;
+		color: #888888;
+		font-size: 14px;
+		font-weight:100;
+		
+			/* NO SELECT BUTTON FOOTER */
+	-webkit-user-select: none; /* Safari */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
+	}
+	
+	.social  {
+   	 float: right;
+	}
+		
+	.footer {
+	position: absolute;
+	height: 90px;
+	right: 0;
+	bottom: 0;
+	left: 0px;
+	padding: 0;
+	background-color: #222222;
+	text-align: center;
+	color: #666666;
+	font-family: sans-serif;
+	font-size: 12px;
+	font-weight: 300;
+	/* NO SELECT BUTTON FOOTER */
+	-webkit-user-select: none; /* Safari */
+	-moz-user-select: none; /* Firefox */
+	-ms-user-select: none; /* IE10+/Edge */
+	user-select: none; /* Standard */
+		}
+
+
+.padder{
+  z-index: 100;
+    position: absolute;
+    bottom: 15px;
+    left: 16px;
+}
+
+.loaderold {
+   /* border: 2px solid #333333;  Light grey */
+    /*border-top: 2px solid #DC4241;  Red */
+    border: 7px solid #ffffff; /* Light grey */
+    border-top: 7px solid #ff0000; /* Solid Red */
+    border-right: 7px solid #ffffff; /* Solid Red */
+    border-bottom: 7px solid #ff0000; /* Solid Red */
+    border-left: 7px solid #ffffff; /* Solid Red */
+    border-radius: 100%;
+    width: 0px;
+    height: 0px;
+    animation: spin 2s linear infinite;
+	
+}
+
+/*
+@keyframes spin {
+    0% { transform: rotate(0deg); }
+    100% { transform: rotate(360deg); }
+}*/
+
+
+    #gameContainer canvas {
+      display:block;
+	  width: 100%;
+      height: 100%;
+	  margin-bottom: -142px; 
+    }
+
+    div#webgl-content {
+      position: absolute;
+      width: 100%;
+      height: 100%;
+	  margin-bottom: -142px; 
+    }
+
+    div#loadingBox {
+      width: 100%;
+      height: 0px;
+      position: absolute;
+      top: 50%;
+      margin-top: 137px;
+      text-align: center;
+    }
+
+    div#icon {
+      width: 300px;
+      height: 310px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -185px;
+      margin-left: -150px;
+      background-image: url("Template/anthill.jpg");
+      background-repeat: no-repeat;
+      box-shadow: 1px 1px 5px #141414;
+    }
+
+    div#box {
+      width: 328px;
+      height: 367px;
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      margin-top: -199px;
+      margin-left: -164px;
+      background: #222;
+      box-shadow: 1px 1px 5px #000;
+    }
+
+    div#bgBar {
+      display: none;
+      position: absolute;
+      width: 300px;
+      margin-left: -150px;
+      left: 50%;
+      height: 18px;
+      background-color: #882121;
+      box-shadow: 1px 1px 5px #111;
+    }
+	
+	a:hover { 
+    	color: #FFFFFF;
+	}
+	a:link {
+    	color: #DDDDDD;
+	}
+
+	/* visited link */
+	a:visited {
+		color: #BBBBBB;
+	}
+		
+    div#progressBar {
+      display: none;
+      left: 50%;
+      position: absolute;
+      margin-left: -150px;
+      width: 0px;
+      height: 18px;
+      background-color: #DC4241;
+    }
+
+    p#loadingInfo {
+      color: #fff;
+      letter-spacing: 1px;
+      position: absolute;
+      width: 100%;
+      font-family: sans-serif;
+      text-align: center;
+      top: 50%;
+      font-size: 11px;
+      font-weight: 500;
+      margin-top: 140px;
+      text-shadow: 0px 0px 5px #000;
+    }
+
+.loader {
+  display: inline-block;
+  position: relative;
+  width: 13px;
+  height: 13px;
+}
+.loader div {
+  box-sizing: border-box;
+  display: block;
+  position: absolute;
+  width: 14px;
+  height: 14px;
+  margin: 2px;
+  border: 2px solid #000;
+  border-radius: 50%;
+  animation: lds-ring 1.2s cubic-bezier(0.5, 0, 0.5, 1) infinite;
+  border-color: #ff9999 transparent transparent transparent;
+}
+.loader div:nth-child(1) {
+  animation-delay: -0.45s;
+}
+.loader div:nth-child(2) {
+  animation-delay: -0.3s;
+}
+.loader div:nth-child(3) {
+  animation-delay: -0.15s;
+}
+@keyframes lds-ring {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+   	
+
+    div#spinner {
+      position: absolute;
+      height: 18px;
+      left: 50%;
+      margin-left: -150px;
+      width: 300px;
+      position: relative;
+      overflow: hidden;
+      background-color: #DC4241;
+      box-shadow: 1px 1px 5px #111;
+    }
+
+    div#spinner:before {
+      display: block;
+      position: absolute;
+      content: "";
+      width: 150%;
+      margin-left: -10px;
+      height: 10px;
+      background-color: #e85366;
+      transform: rotate(-5deg);
+      animation: loading 1s linear infinite;
+    }
+
+    @keyframes loading {
+      from {
+        top: -185%
+      }
+      to {
+        top: 225%
+      }
+    }
+	
+  </style>
+
+  <script src='kongregate_api.js'>
+  </script>
+
+  <script src="Build/UnityLoader.js"></script>
+  <script>
+    function UnityProgress(gameInstance, progress) {
+      var container = document.getElementById('gameContainer');
+      if (container) document.body.style.background = container.style.background;
+
+      if (!gameInstance.Module) {
+         return;
+      } else if (progress === "complete") {
+        document.getElementById("loadingBox").style.display = "none";
+        document.getElementById("icon").style.display = "none";
+        document.getElementById("loadingInfo").style.display = "none";
+        document.getElementById("box").style.display = "none";
+		
+		document.getElementsByTagName('canvas')[0].ondragstart = function() { 
+		
+			
+			return false; 
+		};
+		
+        return;
+      } else if (progress == 1) {
+        document.getElementById("loadingInfo").innerHTML = "Simulating reality...";
+        document.getElementById("spinner").style.display = "inherit";
+        document.getElementById("bgBar").style.display = "none";
+        document.getElementById("progressBar").style.display = "none";
+      } else if (progress > 0) {
+        document.getElementById("progressBar").style.width = 300 * progress + "px"
+        document.getElementById("loadingInfo").innerHTML = "RENDERING UNIVERSE..." + Math.round(progress * 100) + "%";
+        document.getElementById("spinner").style.display = "none";
+        document.getElementById("bgBar").style.display = "block";
+        document.getElementById("progressBar").style.display = "inherit";
+      }
+    }
+    var gameInstance = UnityLoader.instantiate("gameContainer", "Build/cell web build.json", {
+      onProgress: UnityProgress,
+      Module: {
+        onRuntimeInitialized: function() { UnityProgress(gameInstance, "complete") }
+      }
+    });
+  </script>
+</head>
+<body>
+
+
+
+
+<div id="webgl-content" style="width: 100%; height:100% ; bottom:0;top:0;left:0;right:0;   background-color: #dadada">
+    <div id="gameContainer" style="width: 100%; height:100%;  bottom:0;top:0;left:0;right:0;  position: absolute;   background-color: #dadada" ></div>
+
+    <!--applixir-->
+     <script type='text/javascript' src="https://cdn.applixir.com/applixir.sdk3.0m.js"></script>
+        <div id="applixir_vanishing_div" hidden>
+            <iframe id="applixir_parent" allowed="autoplay"></iframe>
+        </div>
+    <!--end applixir-->
+</div>
+  <div id="box">
+   <div class="padder">
+    <div class="loader"><div></div><div></div><div></div><div></div></div>
+   </div></div> 
+  <div id="loadingBox"> 
+    <div id="spinner"></div>
+  
+    <div id="bgBar"></div>
+    <div id="progressBar"></div>
+  </div>
+  <div id="icon"></div>
+ 
+  <p id="loadingInfo"></p>
+   <div >
+       </div>
+     
+
+
+
+
+</div>
+</body>
+</html>
