@@ -7,7 +7,7 @@
 <script src="./hooks.js"></script>
 <script>
 		var gameConfig = {
-			swfUrl: "https://cdn.jsdelivr.net/gh/EmulatorOS/gdata/wingeria.swf"		
+			swfUrl: "https://cdn.jsdelivr.net/gh/EmulatorOS/gdata/papasdonuteria_102.swf"		
 		}
 	</script></head>
 <body>
@@ -17,8 +17,7 @@
 <script>
 		var ua = navigator.userAgent.toLowerCase();
 		if ( (navigator.appName == 'Netscape' && ua.indexOf('trident') != -1) || (ua.indexOf("msie") != -1)) {
-		if ( (navigator.appName == 'Netscape' && ua.indexOf('trident') != -1) || (ua.indexOf("msie") != -1)) {
-    		var waf = document.getElementById('waflashStatus');
+			var waf = document.getElementById('waflashStatus');
 			waf.style.display = 'block';
 			waf.innerText = '인터넷 익스플로어(IE) 에서는 게임이 실행되지 않습니다 !\n크롬, 엣지등의 다른 브라우저를 이용해주세요.';
 			gtag('event', 'connect_from_ie', {'event_category': 'error', 'event_label': ua });
