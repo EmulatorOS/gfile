@@ -1,0 +1,67 @@
+initgame_params_mana 2000	// initial Mana amount - DONE
+options_language  AUTO // def lang, aslo can be one of: de,en,es,fr,it,ja,ko,nl,pl,pt,ru,sv,zh - DONE
+initgame_params_hint1  3		// initial number of hint1 - DONE
+initgame_params_hint2  3		// initial number of hint2 - DONE
+initgame_params_hint3  3		// initial number of hint3 - DONE
+initgame_params_undo  2	// initial amount of â€œundoâ€ moves in Puzzle mode. also equals to buying amount of â€œundosâ€ - DONE
+shop_hint1_count  5			// amount of hint1 in shop for purchace - DONE
+shop_hint2_count  5			// amount of hint2 in shop for purchace - DONE
+shop_hint3_count  3			// amount of hint3 in shop for purchace - DONE
+
+price_shop_hint1  150			// price in Mana for shop_hint1_count hint1 purchace - DONE
+price_shop_hint2  250			// price in Mana for shop_hint2_count hint2 purchace - DONE
+price_shop_hint3  400			// price in Mana for shop_hint3_count hint3 purchace - DONE
+
+price_shop_dotted  100			// price in Mana for dotted border - DONE
+price_shop_gray  150			// price in Mana for gray border - DONE
+price_shop_no_repeat  1500		// price in Mana for disable repetitions border - DONE
+
+shop_undo_price  10			// price in Mana for initgame_params_undo undos in Puzzles 	- DONE
+initgame_params_ha_fifty_fifty  3	// initial amount of hint1 in Artifacts mode - DONE
+initgame_params_ha_show_group  5	// initial amount of hint2 in Artifacts mode - DONE
+initgame_params_ha_show_ele  1	// initial amount of hint3 in Artifacts mode - DONE
+initgame_params_ha_fifty_fifty_buy  3	// amount of hint1 in Artifacts for purchase - DONE
+initgame_params_ha_show_group_buy  3	// amount of hint2 in Artifacts for purchase - DONE
+initgame_params_ha_show_ele_buy  5	// amount of hint3 in Artifacts for purchase - DONE
+
+price_fifty_fifty  150			// price in Mana for purchasing initgame_params_ha_fifty_fifty_buy Artifact hint1 - DONE
+price_show_group  60			// the same for Artifactâ€™s hint2 - DONE
+price_show_ele  210			// the same for Artifactâ€™s hint3 - DONE
+price_attempts  100			// price for artifacts_attempts_amount attemts in Artifacts mode - DONE
+artifacts_attempts_amount  2		// initial amount of attempts in Artifacts mode, also buying amount - DONE
+artifacts_attempts_restore_time  120	// in seconds, time for recharge Artifact attempts - DONE
+auto_missions_enabled  true		// turn on/off missions on planet screen - DONE
+mission_extra_reward_condition  3	// every 3 mission gives extra reward - DONE
+mission_basic_reward  [ { "name":"mana", "amount":10 } ]	// initial reward for mission - 10 Mana	 - DONE
+mission_extra_reward  [ { "name":"mana", "amount":15 }, { "name":"hint1", "amount":1 } ] 	// initial reward	for extra mission - 15 Mana and 1 Simple hint - DONE
+mission_reward_mana_increase  1	// add 1 to reward in Mana for each new mission - DONE
+
+quests_state  {"1": true, "2": true, "3": true, "4": true, "5": true, "6": true, "7": true}	// the mechanism to disable quests. if â€œfalseâ€ quest should be visible, but marked as â€œnot ready yetâ€
+puzzles_state  {"1": true, "2": true, "3": true, "4": true, "5": true, "6": true, "7": true, "8": true, "9": true, "10": true}
+
+quest_locked_to_episode  {"2": 0, "3": 2, "4": 3, "5":4}	// 1,6,7 quests are available only for money, 2 quest is not locked for episodes, quests 3,4,5 are locked to completition of 2,3,4 episodes - DONE
+puzzle_locked_to_episode  {"1": 0, "2": 0, "3": 1, "4": 2, "10": 3, "7": 4}	// the same for puzzles - DONE
+
+initgame_params_light_power 100
+initgame_params_light_type 1
+light_1_reactions 10
+light_2_reactions 20
+price_shop_light1 200
+price_shop_light2 300
+price_shop_light3 3500
+light_1_restore_time 36000
+light_2_restore_time 72000
+light_enabled false
+
+cross_promo_enabled false
+failed_reactions_hint_frequency 5
+no_action_hint_frequency 60000
+
+fortune_enabled 1
+fortune_free_spin_cooldown 3600
+fortune_spin_price 200
+fortune_wheel_slots {"items":[{"name":"mana","quantity":20,"appear_prob":100,"choose_prob":2500},{"name":"mana","quantity":100,"appear_prob":100,"choose_prob":1500},{"name":"mana","quantity":1000,"appear_prob":0,"choose_prob":0},{"name":"mana","quantity":10000,"appear_prob":0,"choose_prob":0},{"name":"dotted","quantity":1,"appear_prob":100,"choose_prob":500},{"name":"gray","quantity":2,"appear_prob":100,"choose_prob":1000},{"name":"disable_repetitions","appear_prob":0,"choose_prob":0},{"name":"hint1","quantity":3,"appear_prob":100,"choose_prob":2000},{"name":"hint2","quantity":2,"appear_prob":0,"choose_prob":0},{"name":"hint3","quantity":1,"appear_prob":0,"choose_prob":0},{"name":"_JACKPOT_","mana1":120,"mana2":800,"mana3":4800,"appear_prob":100,"choose_prob":500},{"name":"_CHEST_","items": [ {"name" : "mana", "amount":250} ],"appear_prob":100,"choose_prob":1000},{"name":"_SPIN_","appear_prob":100,"choose_prob":1000}]}
+
+bank_button_enabled true
+wiki_button_enabled true
+account_enabled false

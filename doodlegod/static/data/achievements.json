@@ -1,0 +1,226 @@
+[
+  {
+    "points": 5,
+    "name": "A_NAME_6_ELEMENTS_CREATED",
+    "description": "A_6_ELEMENTS_CREATED",
+    "id": "605732",
+    "image": "achievements/good_start",
+    "largeImage": "achievements/2x/good_start"
+  },
+  {
+    "points": 5,
+    "name": "A_NAME_10_GROUPS_CREATED",
+    "description": "A_10_GROUPS_CREATED",
+    "id": "605742",
+    "image": "achievements/creator_of_diversity",
+    "largeImage": "achievements/2x/creator_of_diversity"
+  },
+  {
+    "points": 10,
+    "name": "A_NAME_LIFE_CREATED",
+    "description": "A_LIFE_CREATED",
+    "id": "605752",
+    "image": "achievements/creator_of_life",
+    "largeImage": "achievements/2x/creator_of_life"
+  },
+  {
+    "points": 20,
+    "name": "A_NAME_HUMAN_CREATED",
+    "description": "A_HUMAN_CREATED",
+    "id": "605762",
+    "image": "achievements/creator_of_humanity",
+    "largeImage": "achievements/2x/creator_of_humanity"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_EPISODE_ONE_PASSED",
+    "description": "A_EPISODE_ONE_PASSED",
+    "id": "605772",
+    "image": "achievements/creator_of_civilization",
+    "largeImage": "achievements/2x/creator_of_civilization"
+  },
+  {
+    "points": 40,
+    "name": "A_NAME_EPISODE_TWO_PASSED",
+    "description": "A_EPISODE_TWO_PASSED",
+    "id": "605782",
+    "image": "achievements/creator_of_technology",
+    "largeImage": "achievements/2x/creator_of_technology"
+  },
+  {
+    "points": 50,
+    "name": "A_NAME_EPISODE_THREE_PASSED",
+    "description": "A_EPISODE_THREE_PASSED",
+    "id": "605792",
+    "image": "achievements/creator_of_modernity",
+    "largeImage": "achievements/2x/creator_of_modernity"
+  },
+  {
+    "points": 60,
+    "name": "A_NAME_EPISODE_FOUR_PASSED",
+    "description": "A_EPISODE_FOUR_PASSED",
+    "id": "605802",
+    "image": "achievements/creator_of_magic",
+    "largeImage": "achievements/2x/creator_of_magic"
+  },
+  {
+    "points": 10,
+    "name": "A_NAME_GAMES_CREATED",
+    "description": "A_GAMES_CREATED",
+    "id": "605812",
+    "image": "achievements/god_of_fun",
+    "largeImage": "achievements/2x/god_of_fun"
+  },
+  {
+    "points": 50,
+    "name": "A_NAME_EPISODE_ONE_PASSED_WITHOUT_HINTS",
+    "description": "A_EPISODE_ONE_PASSED_WITHOUT_HINTS",
+    "id": "605822",
+    "image": "achievements/brilliant_inventor",
+    "largeImage": "achievements/2x/brilliant_inventor"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_ALL_BAD_THINGS_CREATED",
+    "description": "A_ALL_BAD_THINGS_CREATED",
+    "id": "605832",
+    "image": "achievements/deity_of_darkness",
+    "largeImage": "achievements/2x/deity_of_darkness"
+  },
+  {
+    "points": 100,
+    "name": "A_NAME_ALL_REACTIONS_REVEALED",
+    "description": "A_ALL_REACTIONS_REVEALED",
+    "id": "605842",
+    "image": "achievements/god_of_patience",
+    "largeImage": "achievements/2x/god_of_patience"
+  },
+  {
+    "points": 20,
+    "name": "A_NAME_ALL_DRINKS_CREATED",
+    "description": "A_ALL_DRINKS_CREATED",
+    "id": "605852",
+    "image": "achievements/doodle_bar",
+    "largeImage": "achievements/2x/doodle_bar"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_SAVE_THE_PRINCESS_QUEST_PASSED",
+    "description": "A_SAVE_THE_PRINCESS_QUEST_PASSED",
+    "id": "605862",
+    "image": "achievements/half_the_kingdom",
+    "largeImage": "achievements/2x/half_the_kingdom"
+  },
+  {
+    "points": 5,
+    "name": "A_NAME_ELEMENT_CREATED_3_OR_MORE_TIMES",
+    "description": "A_ELEMENT_CREATED_3_OR_MORE_TIMES",
+    "id": "605872",
+    "image": "achievements/practice_makes_perfect",
+    "largeImage": "achievements/2x/practice_makes_perfect"
+  },
+  {
+    "points": 5,
+    "name": "A_NAME_SIMILAR_ELEMENTS_REACTED",
+    "description": "A_SIMILAR_ELEMENTS_REACTED",
+    "id": "605892",
+    "image": "achievements/similar_to_similar",
+    "largeImage": "achievements/2x/similar_to_similar"
+  },
+  {
+    "points": 20,
+    "name": "A_NAME_ALL_REACTIONS_WITH_PHILOSOPHERS_STONE_DISCOVERED",
+    "description": "A_ALL_REACTIONS_WITH_PHILOSOPHERS_STONE_DISCOVERED",
+    "id": "605912",
+    "image": "achievements/master_of_alchemy",
+    "largeImage": "achievements/2x/master_of_alchemy"
+  },
+  {
+    "points": 100,
+    "name": "A_NAME_ALL_EPISODES_PASSED_WITHOUT_HINTS",
+    "description": "A_ALL_EPISODES_PASSED_WITHOUT_HINTS",
+    "id": "605942",
+    "image": "achievements/master_of_the_worlds",
+    "largeImage": "achievements/2x/master_of_the_worlds"
+  },
+  {
+    "points": 80,
+    "name": "A_NAME_VOTE_OR_THANKS_CAST",
+    "description": "A_VOTE_OR_THANKS_CAST",
+    "id": "605962",
+    "image": "achievements/fan_club_member",
+    "largeImage": "achievements/2x/fan_club_member"
+  },
+  {
+    "points": 50,
+    "name": "A_NAME_SHARED_ON_FACEBOOK",
+    "description": "A_SHARED_ON_FACEBOOK",
+    "id": "605982",
+    "image": "achievements/follower",
+    "largeImage": "achievements/2x/follower"
+  },
+  {
+    "points": 60,
+    "name": "A_NAME_REVIEW_WRITTEN",
+    "description": "A_REVIEW_WRITTEN",
+    "id": "605992",
+    "image": "achievements/reviewer",
+    "largeImage": "achievements/2x/reviewer"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_RUN_SANTA_RUN_QUEST_COMPLETED",
+    "description": "A_RUN_SANTA_RUN_QUEST_COMPLETED",
+    "id": "740512",
+    "image": "achievements/master_of_the_new_year",
+    "largeImage": "achievements/2x/master_of_the_new_year"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_SINS_VS_VIRTUES_QUEST_COMPLETED",
+    "description": "A_SINS_VS_VIRTUES_QUEST_COMPLETED",
+    "id": "844452",
+    "image": "achievements/virtues",
+    "largeImage": "achievements/2x/virtues"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_20THCENTURY_QUEST_COMPLETED",
+    "description": "A_20THCENTURY_QUEST_COMPLETED",
+    "id": "610000",
+    "image": "achievements/20th_century",
+    "largeImage": "achievements/2x/20th_century"
+  },
+  {
+    "points": 30,
+    "name": "A_NAME_ROBINZON_QUEST_COMPLETED",
+    "description": "A_ROBINZON_QUEST_COMPLETED",
+    "id": "610001",
+    "image": "achievements/robinzon",
+    "largeImage": "achievements/2x/robinzon"
+  },
+  {
+    "points": 30,
+    "name": "TILE_main_game_2",
+    "description": "A_GO_TO_MAIN_GAME_2",
+    "id": "go_to_main_game_2",
+    "image": "achievements/technology_epizode",
+    "largeImage": "achievements/2x/technology_epizode"
+  },
+  {
+    "points": 30,
+    "name": "TILE_main_game_3",
+    "description": "A_GO_TO_MAIN_GAME_3",
+    "id": "go_to_main_game_3",
+    "image": "achievements/science_epizode",
+    "largeImage": "achievements/2x/science_epizode"
+  },
+  {
+    "points": 30,
+    "name": "TILE_main_game_4",
+    "description": "A_GO_TO_MAIN_GAME_4",
+    "id": "go_to_main_game_4",
+    "image": "achievements/magic_epizode",
+    "largeImage": "achievements/2x/magic_epizode"
+  }
+]

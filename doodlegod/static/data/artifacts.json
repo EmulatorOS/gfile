@@ -1,0 +1,93 @@
+[
+	{
+		"id": "pyramid",
+		"name": "ART_NAME_PYRAMID",
+		"desc": "ART_DESC_PYRAMID",
+		"enigma": "ART_ENIG_PYRAMID",
+		"elements": ["Sand","Corpse","Stone"]
+	},
+	{
+		"id": "stonehenge",
+		"name": "ART_NAME_SHENGE",
+		"desc": "ART_DESC_SHENGE",
+		"enigma": "ART_ENIG_SHENGE",
+		"elements": ["Stone","Stone","Stone"]
+	},
+	{
+		"id": "sphinx",
+		"name": "ART_NAME_SPHYNX",
+		"desc": "ART_DESC_SPHYNX",
+		"enigma": "ART_ENIG_SPHYNX",
+		"elements": ["Stone","Human","Animal"]
+	},
+	{
+		"id": "godzilla",
+		"name": "ART_NAME_GODZILLA",
+		"desc": "ART_DESC_GODZILLA",
+		"enigma": "ART_ENIG_GODZILLA",
+		"elements": ["Dinosaur","Radiation","Sea"]
+	},
+	{
+		"id": "perpetual",
+		"name": "ART_NAME_PERPET",
+		"desc": "ART_DESC_PERPET",
+		"enigma": "ART_ENIG_PERPET",
+		"elements": ["Mechanism","Void","Energy"]
+	},
+	{
+		"id": "titanic",
+		"name": "ART_NAME_TITANIC",
+		"desc": "ART_DESC_TITANIC",
+		"enigma": "ART_ENIG_TITANIC",
+		"elements": ["Ship","Ice","Death"]
+	},
+	{
+		"id": "pandora_box",
+		"name": "ART_NAME_PBOX",
+		"desc": "ART_DESC_PBOX",
+		"enigma": "ART_ENIG_PBOX",
+		"elements": ["Chaos","Death","Darkness"]
+	},
+	{
+		"id": "lightsaber",
+		"name": "ART_NAME_LSABER",
+		"desc": "ART_DESC_LSABER",
+		"enigma": "ART_ENIG_LSABER",
+		"elements": ["Sword","Energy","Light"]
+	},
+	{
+		"id": "eiffel_tower",
+		"name": "ART_NAME_EIFTOWER",
+		"desc": "ART_DESC_EIFTOWER",
+		"enigma": "ART_ENIG_EIFTOWER",
+		"elements": ["Metal","Tower","Skyscraper"]
+	},
+	{
+		"id": "grail",
+		"name": "ART_NAME_GRAIL",
+		"desc": "ART_DESC_GRAIL",
+		"enigma": "ART_ENIG_GRAIL",
+		"elements": ["Blood","Resurrection","Demigod"]
+	},
+	{
+		"id": "ring_power",
+		"name": "ART_NAME_ROP",
+		"desc": "ART_DESC_ROP",
+		"enigma": "ART_ENIG_ROP",
+		"elements": ["Lava","Magic","Demon"]
+	},
+	{
+		"id": "basilisk",
+		"name": "ART_NAME_BASILISK",
+		"desc": "ART_DESC_BASILISK",
+		"enigma": "ART_ENIG_BASILISK",
+		"elements": ["Lizard","Poison","Stone"]
+	},
+	{
+		"id": "sledge",
+		"name": "ART_NAME_SLEDGE",
+		"desc": "ART_DESC_SLEDGE",
+		"enigma": "ART_ENIG_SLEDGE",
+		"elements": ["Snow","Wood","Human"]
+	}
+]

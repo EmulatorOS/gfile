@@ -1,0 +1,4048 @@
+{
+    "Air": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Airplane": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Alcoholic": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 9
+        },
+        "isAdult": true
+    },
+    "Animal": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Apple": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Arable": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Ash": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Assassin": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Bacteria": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Beer": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 9
+        },
+        "isAdult": true
+    },
+    "Beetle": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Bird": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Blood": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Boat": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Boiler": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Book": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Bread": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Bricks": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Butterfly": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Car": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Cart": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Cement": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Ceramics": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Cigarette": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 9
+        },
+        "isAdult": true
+    },
+    "Clay": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Clothing": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Coal": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Coffee": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Concrete": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Corpse": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Demigod": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Dinosaur": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Dolphin": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Dough": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Dragon": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Dust": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Earth": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Egg": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Electricity": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Energy": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Fabric": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Feather": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Fern": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Fire": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Firearm": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Fish": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Flour": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Flower": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Ghost": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Ghoul": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Glass": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Gold": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Golem": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Grass": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Gunpowder": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Hero": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "House": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Human": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Hunter": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Hut": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Lava": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Life": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Limestone": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Livestock": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Lizard": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Locomotive": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Manure": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Meat": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Metal": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Milk": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Moss": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Mushroom": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Oil": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Palm": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Paper": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Philosophers stone": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Phoenix": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Plankton": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Plasma": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Poison": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Poisoned weapon": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Quicksilver": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Reed": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Sailing ship": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Saltpetre": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Sand": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Scorpion": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Seeds": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Sex": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 7
+        },
+        "isAdult": true
+    },
+    "Shells": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Ship": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Skyscraper": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Snake": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Spirit": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 10
+        },
+        "isAdult": true
+    },
+    "Steam": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Steam-engine": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Steamship": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Stone": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Storm": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Sulfur": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Swamp": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Team": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Thunderbird": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Tobacco": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 5
+        },
+        "isAdult": true
+    },
+    "Tools": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Treant": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Tree": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Turtle": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Vampire": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Vodka": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 9
+        },
+        "isAdult": true
+    },
+    "Warrior": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Water": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Weapon": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Weeds": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Werewolf": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Whale": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Wheat": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Wheel": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Wizard": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Wood": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Wool": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Worm": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Zombie": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Ice": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Snow": {
+        "image": {
+            "texture": "elements_texture_04",
+            "x": 2,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "CD": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Cellphone": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Computer": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Cyborg": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Internet": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Laser": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Lightbulb": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Nuclear bomb": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Plutonium": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Radiation": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Radiowave": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Rocket": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Satellite": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Sun": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Sunflower": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "TV": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Void": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "3D holography": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Air conditioner": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "AK-47": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Antibiotics": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Aqualung": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Artificial heart": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Assembly line": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Astronaut": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "ATM": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Audio cassette": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Band-aid": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Bar code": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Bazooka": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Big bang theory": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Bikini": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Black box": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Bra": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Bubble gum": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Cellophane": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Computer mouse": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Crayons": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Credit card": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Crossword": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Digital camera": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Digital clock": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Digital photography": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "DNA fingerprinting": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Duct tape": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "DVD": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Fast food": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Fax machine": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "First computer": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Flash memory": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Floppy disk": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "FM radio": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Frozen food": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Gas mask": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "GPS": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Helicopter": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Hybrid vehicle": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Hypertext": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Jet engine": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Karaoke": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Kevlar": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Lie detector": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Liquid paper": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Memory card": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Microchip": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Microprocessor": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Microwave oven": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Modular space station": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Monopoly": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Moon lander": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "MP3 player": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "MS-DOS": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Neon lamp": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Nuclear power reactor": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Parking meter": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Personal computer": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Photocopier": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Plasma TV": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Polaroid": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Radar": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Radio telescope": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Robot": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Copyright": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Sea launch": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Shopping cart": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Smartphone": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Software": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Solar cell": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Space station": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Stainless steel": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Stereo": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Sunglasses": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Super glue": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Tank": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Teabag": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Theory of relativity": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Toaster": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Traffic lights": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Transistor": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "USB": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Vacuum cleaner": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Video game": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Virtual reality": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Vitamin": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Washing machine": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Webcam": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Windows": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "WWW": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Yo-yo": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Zeppelin": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Zipper": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Armor": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Clock": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Death": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Debt": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "DNA": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Food": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Freezer": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Fun": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Games": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Glue": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Knowledge": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Magic": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Man": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Mechanism": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Medicine": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Missile": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Money": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Music": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Neon": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Order": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Phone": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Photo": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Puzzle": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Semiconductor": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Shopping": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Sin": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Tea": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Time": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Vacuum tube": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Woman": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Work": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Absinthe": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Alien": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Ant": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "B52": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Bank": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Cat": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Caviar": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Censored": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 0
+        },
+        "isAdult": true
+    },
+    "Cheese": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Commandments": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Cookies": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Death metal": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 15
+        },
+        "isAdult": true
+    },
+    "Dog": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Hacker": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Hangover": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Ice cream": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Journalist": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Law": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Molotov cocktail": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Octopus": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Pie": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 11,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Pirate": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 9,
+            "y": 13
+        },
+        "isAdult": true
+    },
+    "Policeman": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Rat": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Religion": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Rock-n-roll": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 4,
+            "y": 15
+        },
+        "isAdult": true
+    },
+    "Rum": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Russian roulette": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Salt": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Scientist": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Sea": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Soldier": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Steak": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 14
+        },
+        "isAdult": false
+    },
+    "Sugar": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Tavern": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Tequila": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Typewriter": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "UFO": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Virus": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "White russian": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 3,
+            "y": 16
+        },
+        "isAdult": true
+    },
+    "Adamantite": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Angel": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Astral": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Axe": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Bard": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Bow": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Castle": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Chaos": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Claws": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Cone of cold": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Crossbow": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Darkness": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Demon": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Drow": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Druid": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Duergar": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Dwarf": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Elf": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Fireball": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Goblin": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Half-elf": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Hammer": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Healing": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Illithid": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Illusion": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Light": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Mace": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Mithril": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Modron": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Necromancer": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 3
+        },
+        "isAdult": false
+    },
+    "Orc": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Paladin": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Potion": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Prayer": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Priest": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Resurrection": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Rogue": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Scroll": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Shadow": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Silver": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Spell": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Spellbook": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Sword": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Teleport": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Tower": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Underground": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Unicorn": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 4
+        },
+        "isAdult": false
+    },
+    "Wand": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 2
+        },
+        "isAdult": false
+    },
+    "Sacrifice": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Temple": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Statue": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Egyptian priest": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Desert": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Nile": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Flintstone": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Papyrus": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Hawk": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Crocodile": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Cat_egypt": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Mummy": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Sarcophagus": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Pharaon": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Ra": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Horus": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Sebek": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Bastet": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 15
+        },
+        "isAdult": false
+    },
+    "Scarabeus": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Fishing rod": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Axe_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Knife": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Needle and thread": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Bow_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Hammer_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Snare": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Spear": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Bricks_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Clothes_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Map": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Canvas": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Pottery": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Compass": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Rope": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Spyglass": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Sail": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Sailing raft": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Raft": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Black sail": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "White sail": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Cave": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Shelter": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 8
+        },
+        "isAdult": false
+    },
+    "Walls": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Game": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Berries": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Fish_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Carcass": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Jerky": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Coconut": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Oysters": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Beach": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Calm": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Cliffs": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Forest": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Island": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Storm_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Sea_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 9
+        },
+        "isAdult": false
+    },
+    "Leaves": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Bushes": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Liana": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Stick": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Sinew": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Skin": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Water_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 9,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Bones": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Smoke_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Spark": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 11,
+            "y": 10
+        },
+        "isAdult": false
+    },
+    "Fire_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Ash_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Salvation_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 7,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Torture": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 8,
+            "y": 6
+        },
+        "isAdult": false
+    },
+    "Human_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 6,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Merchants": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 3,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Pirates": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 2,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Gold_lost": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 4,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Hidden treasure": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 5,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Firecracker": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 7
+        },
+        "isAdult": false
+    },
+    "Android": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 10,
+            "y": 16
+        },
+        "isAdult": false
+    },
+    "Xmastree": {
+        "image": {
+            "texture": "elements_texture_04",
+            "x": 3,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Qangel": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 0,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Love bow": {
+        "image": {
+            "texture": "elements_texture_04",
+            "x": 4,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Absinthe present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 8,
+            "y": 16,
+            "addition": "border_new_year"
+        },
+        "isAdult": true
+    },
+    "Beer present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 9,
+            "addition": "border_new_year"
+        },
+        "isAdult": true
+    },
+    "Brains present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 11,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Crystall ball present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 11,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Death star present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 8,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Gold present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 12,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Guitar present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 11,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Joker present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 11,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Philosophers stone present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 10,
+            "y": 10,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Rum present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 2,
+            "y": 16,
+            "addition": "border_new_year"
+        },
+        "isAdult": true
+    },
+    "Sacrifice present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 11,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Sunglasses present": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 11,
+            "addition": "border_new_year"
+        },
+        "isAdult": false
+    },
+    "Tequila present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 1,
+            "y": 16,
+            "addition": "border_new_year"
+        },
+        "isAdult": true
+    },
+    "Vodka present": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 7,
+            "y": 9,
+            "addition": "border_new_year"
+        },
+        "isAdult": true
+    },
+    "Adventurers": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Dead dragon": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Experience": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Key": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "King": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Lair": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Maze": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Mountain": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Party": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Princess": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Quest": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Secret door": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Trap": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Abstention": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 12
+        },
+        "isAdult": true
+    },
+    "Altruism": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Assistance": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Birth": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Calmness": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Charity": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Chastity": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 12
+        },
+        "isAdult": true
+    },
+    "Cheerfulness": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Continence": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 12
+        },
+        "isAdult": true
+    },
+    "Diet": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Diligence": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Discipline": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Donation": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Envy": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Faith": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Fasting": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Free apps": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Generosity": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 8,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Gift": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Gluttony": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Greed": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Heresy": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 6,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Hope": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Humility": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 2,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Joy": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 6,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Love": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Lust": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 1,
+            "y": 5
+        },
+        "isAdult": true
+    },
+    "Modesty": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 10,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Murder": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 0,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Pride": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 7,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Salvation": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 9,
+            "y": 11
+        },
+        "isAdult": false
+    },
+    "Sloth": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Sublimation": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 12
+        },
+        "isAdult": true
+    },
+    "Theft": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 3,
+            "y": 1
+        },
+        "isAdult": false
+    },
+    "Tolerance": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 4,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Vegetarianism": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 12
+        },
+        "isAdult": false
+    },
+    "Virtue": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 11,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Wrath": {
+        "image": {
+            "texture": "elements_texture_02",
+            "x": 5,
+            "y": 5
+        },
+        "isAdult": false
+    },
+    "Qdemon": {
+        "image": {
+            "texture": "elements_texture_03",
+            "x": 1,
+            "y": 13
+        },
+        "isAdult": false
+    },
+    "Inferno": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 5,
+            "y": 0
+        },
+        "isAdult": false
+    },
+    "Heavens": {
+        "image": {
+            "texture": "elements_texture_01",
+            "x": 0,
+            "y": 0
+        },
+        "isAdult": false
+    }
+}

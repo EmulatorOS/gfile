@@ -1,0 +1,380 @@
+{
+    "Abstract": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 0,
+            "y": 2
+        }
+    },
+    "Air": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 2,
+            "y": 0
+        }
+    },
+    "Animals": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 1,
+            "y": 1
+        }
+    },
+    "Bar": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 3,
+            "y": 3
+        }
+    },
+    "Civ": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 3,
+            "y": 1
+        }
+    },
+    "Earth": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 3,
+            "y": 0
+        }
+    },
+    "Evil": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 0,
+            "y": 2
+        }
+    },
+    "Fantasy": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 0,
+            "y": 0
+        }
+    },
+    "Fire": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 0,
+            "y": 0
+        }
+    },
+    "Flora": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 0,
+            "y": 1
+        }
+    },
+    "Food": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 2,
+            "y": 1
+        }
+    },
+    "Good": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 1,
+            "y": 2
+        }
+    },
+    "Hitec": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 2,
+            "y": 1
+        }
+    },
+    "Human": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 3,
+            "y": 0
+        }
+    },
+    "Kitchen": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 1,
+            "y": 3
+        }
+    },
+    "Magic": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 2,
+            "y": 3
+        }
+    },
+    "MassDestruction": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 2,
+            "y": 3
+        }
+    },
+    "ModernHandWpn": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 1,
+            "y": 3
+        }
+    },
+    "ModernWpn": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 3,
+            "y": 2
+        }
+    },
+    "Monsters": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 2,
+            "y": 0
+        }
+    },
+    "Mystic": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 2,
+            "y": 0
+        }
+    },
+    "Professions": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 3,
+            "y": 2
+        }
+    },
+    "Races": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 1,
+            "y": 0
+        }
+    },
+    "SciFi": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 2,
+            "y": 2
+        }
+    },
+    "Science": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 2,
+            "y": 2
+        }
+    },
+    "Simple": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 0,
+            "y": 1
+        }
+    },
+    "Sins": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 1,
+            "y": 0
+        }
+    },
+    "Social": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 3,
+            "y": 1
+        }
+    },
+    "SocialWpn": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 0,
+            "y": 3
+        }
+    },
+    "Tools": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 1,
+            "y": 1
+        }
+    },
+    "Vehicle": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 1,
+            "y": 2
+        }
+    },
+    "Virtues": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 2,
+            "y": 0
+        }
+    },
+    "Water": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 1,
+            "y": 0
+        }
+    },
+    "Weapon": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 0,
+            "y": 0
+        }
+    },
+    "Zoo": {
+        "image": {
+            "texture": "groups_texture_02",
+            "x": 0,
+            "y": 3
+        }
+    },
+    "Nature": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 3,
+            "y": 0
+        }
+    },
+    "Lost_constructions": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 0,
+            "y": 1
+        }
+    },
+    "Lost_tools": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 1,
+            "y": 1
+        }
+    },
+    "Lost_civ": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 2,
+            "y": 1
+        }
+    },
+    "Lost_materials": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 3,
+            "y": 1
+        }
+    },
+    "Lost_human": {
+        "image": {
+            "texture": "groups_texture_03",
+            "x": 0,
+            "y": 2
+        }
+    },
+    "1900s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 1,
+            "y": 2
+        }
+    },
+    "1910s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 0,
+            "y": 2
+        }
+    },
+    "1920s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 3,
+            "y": 1
+        }
+    },
+    "1930s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 2,
+            "y": 1
+        }
+    },
+    "1940s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 1,
+            "y": 1
+        }
+    },
+    "1950s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 0,
+            "y": 1
+        }
+    },
+    "1960s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 3,
+            "y": 0
+        }
+    },
+    "1970s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 2,
+            "y": 0
+        }
+    },
+    "1980s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 1,
+            "y": 0
+        }
+    },
+    "1990s": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 0,
+            "y": 0
+        }
+    },
+    "Egypt": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 2,
+            "y": 2
+        }
+    },
+    "Basic": {
+        "image": {
+            "texture": "groups_texture_01",
+            "x": 0,
+            "y": 0
+        }
+    },
+    "Qad": {
+        "image": {
+            "texture": "groups_texture_20th",
+            "x": 3,
+            "y": 2
+        }
+    }
+}

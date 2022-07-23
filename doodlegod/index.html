@@ -1,0 +1,85 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Doodle God</title>
+<link rel="stylesheet" type="text/css" href="static/css/main.css">
+<link rel="apple-touch-icon" sizes="180x180" href="icons/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="icons/favicon-16x16.png">
+<link rel="manifest" href="icons/manifest.json">
+<link rel="shortcut icon" href="icons/favicon.ico">
+<meta name="msapplication-config" content="icons/browserconfig.xml">
+<meta name="theme-color" content="#ffffff">
+<script type="text/javascript">
+		// disable new WebAudio Sound implementation due to big memory consumption
+                //if (!/(iPad|iPhone|iPod)/g.test(window.navigator.userAgent)) {
+                    //window.AudioContext = window.mozAudioContext = window.webkitAudioContext = null;     
+                //}
+	</script>
+<script type="text/javascript">
+		(function (){
+			function isMobile(){
+				var mobile = [
+					'iemobile',
+					'windows phone os',
+					'mobileexplorer',
+					'openwave',
+					'opera mini',
+					'operamini',
+					'elaine',
+					'palmsource',
+					'digital paths',
+					'avantgo',
+					'xiino',
+					'palmscape',
+					'nokia',
+					'ericsson',
+					'blackberry',
+					'motorola',
+					'iphone',
+					'ipad',
+					'ipod',
+					'android',
+					'windows phone',
+					'wpdesktop'
+				];
+				return !!navigator.userAgent.match( new RegExp(mobile.join("|"), "ig") );
+			}
+            function getOrientationByDevice() {
+                var orientation = window.innerWidth < window.innerHeight ? 'portrait' : 'landscape';
+                if (/(iPhone|iPod)/g.test(window.navigator.userAgent)) {
+                    orientation = 'portrait';
+                }
+                if (/(iPad)/g.test(window.navigator.userAgent)) {
+                    orientation = 'landscape';
+                }
+                if (/(Android)/g.test(window.navigator.userAgent)) {
+                    var isMobile = /(Mobile)/i.test(window.navigator.userAgent);
+                    orientation = isMobile ? 'portrait' : 'landscape';
+                }
+                return orientation;
+            }
+			window.RESOURSE_HOST = '';
+            window.LOCKED_ORIENTATION = getOrientationByDevice();
+			if (isMobile()){
+				window.USE_MOBILE_IMAGES = true;
+			} else {
+				window.USE_MOBILE_IMAGES = false;
+			}
+			window.PAYMENTS_TYPE = 'xsolla';
+			window.PAYMENTS_SANDBOX = location.search === '?sandbox';
+		}());
+	</script>
+<script type="text/javascript" src="engine-07c190255f709c7fc3e2f7ab28fc17f412619d0f-engine.min.js"></script>
+<script type="text/javascript" src="doodlegod.1.1.2.js"></script>
+</head>
+<body>
+<div id="bg1" class="background"></div>
+<div id="bg2" class="background"></div>
+<canvas id="engine" width="0" height="0"></canvas>
+<span id="loading">Loading...</span>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v652eace1692a40cfa3763df669d7439c1639079717194" integrity="sha512-Gi7xpJR8tSkrpF7aordPZQlW2DLtzUlZcumS8dMQjwDHEnw9I7ZLyiOj/6tZStRBGtGgN6ceN6cMH8z7etPGlw==" data-cf-beacon='{"rayId":"72f5e597fabe631e","version":"2022.6.0","r":1,"token":"1646abcce58241b1aef359d9d36b339d","si":100}' crossorigin="anonymous"></script>
+</body>
+</html>
