@@ -51,7 +51,7 @@ function Tetris(controller) {
     
 
     this.setup = function () {
-	// find the keys to stop	
+	// find the keys to stop
 	var stoppedKeys = [],
 	curAction, i;
 	for (curAction in inputAssignments) {
@@ -121,11 +121,11 @@ function Tetris(controller) {
 		    gameEndTty.addLine('');
 			checkHighScore(scoreObject.score);
 		    //sendScoreRequest(scoreObject.score);
-
-			window.setTimeout(function() {
+gameEndTty.addLine('Press R to restart:');
+			    if (e.code === "R") {
 				document.getElementById('gameEndContainer').setAttribute('class', 'gameEndOutputHidden');
 				controller.restart();
-			}, 10000);
+			}
 		}
 	    }
 	} else if (paused) {
