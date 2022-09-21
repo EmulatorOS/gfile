@@ -119,13 +119,13 @@ function Tetris(controller) {
 			gameEndTty.addLine(scoreObject.score.toString());
 		    gameEndTty.addLine('');
 		    gameEndTty.addLine('');
-
+			checkHighScore(scoreObject.score);
 		    //sendScoreRequest(scoreObject.score);
 
 			window.setTimeout(function() {
 				document.getElementById('gameEndContainer').setAttribute('class', 'gameEndOutputHidden');
 				controller.restart();
-			}, 6000);
+			}, 10000);
 		}
 	    }
 	} else if (paused) {
