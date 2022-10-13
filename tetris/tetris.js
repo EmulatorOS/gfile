@@ -24,6 +24,16 @@ function TetrisControl() {
 	tetris.update();
     };
 }
+function formatDate(date) {
+	var hours = date.getHours();
+	var minutes = date.getMinutes();
+	var ampm = hours >= 12 ? 'pm' : 'am';
+	hours = hours % 12;
+	hours = hours ? hours : 12; // the hour '0' should be '12'
+	minutes = minutes < 10 ? '0'+minutes : minutes;
+	var strTime = hours + ':' + minutes + ' ' + ampm;
+	return date.getMonth()+1 + "/" + date.getDate() + "/" + date.getFullYear() + " " + strTime;
+  }
 
 function Tetris(controller) {
     var background = null,
@@ -43,7 +53,7 @@ function Tetris(controller) {
 
     continueButton = null,
     restartButton = null,
-
+		newhighscore = false
     lastTime = null,
     dTime = null,
 
@@ -51,7 +61,7 @@ function Tetris(controller) {
     
 
     this.setup = function () {
-	// find the keys to stop	
+	// find the keys to stop
 	var stoppedKeys = [],
 	curAction, i;
 	for (curAction in inputAssignments) {
@@ -99,12 +109,32 @@ function Tetris(controller) {
 
 		    // make the game end visible
 		    document.getElementById('gameEndContainer').setAttribute('class', 'gameEndOutputVisible');
-		    gameEndTty.addLine('GOOD GAME!!!');
-		    gameEndTty.addLine('');
-		    gameEndTty.addLine('');
-		    if (scoreObject.won) {
-			gameEndTty.addLine('You Win!');
-		    } else {
+		   
+				
+					
+					  
+					  var d = new Date();
+					  var date = formatDate(d);
+					  
+					  const NO_OF_HIGH_SCORES = 10;
+					const highScores = JSON.parse(localStorage.getItem('highScores')) || [];
+					const lowestScore = highScores[NO_OF_HIGH_SCORES - 1]?.score ?? 0;
+				const score = scoreObject.score
+					if (score > lowestScore) {
+						newhighscore = true
+						const newScore = { score, date };
+						console.log(newScore)
+						saveHighScore(newScore, highScores);
+					}
+				if (newhighscore) {
+					console.log("new")
+					gameEndTty.addLine('New High Score!');
+					gameEndTty.addLine('To Check High Score');
+					gameEndTty.addLine('Go To High Scores Tab');
+				}  else {
+					gameEndTty.addLine('GOOD GAME!!!');
+					gameEndTty.addLine('');
+					gameEndTty.addLine('');
 			gameEndTty.addLine('Better Luck Next Time');
 		    }
 		    gameEndTty.addLine('');
@@ -119,13 +149,14 @@ function Tetris(controller) {
 			gameEndTty.addLine(scoreObject.score.toString());
 		    gameEndTty.addLine('');
 		    gameEndTty.addLine('');
-
+					
 		    //sendScoreRequest(scoreObject.score);
-
-			window.setTimeout(function() {
-				document.getElementById('gameEndContainer').setAttribute('class', 'gameEndOutputHidden');
-				controller.restart();
-			}, 6000);
+gameEndTty.addLine('Press R to restart');
+document.addEventListener('keyup', function(e){
+	if(e.keyCode == 82)
+	 
+	window.location.reload();
+			})
 		}
 	    }
 	} else if (paused) {
