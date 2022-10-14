@@ -1,6 +1,6 @@
 {
     "TOTAL_MEMORY": 1073741824,
-    "dataUrl": "ItchIO.data.unityweb",
+    "dataUrl": "https://media.githubusercontent.com/media/EmulatorOS/gfile/main/drift/Build/ItchIO.data.unityweb",
     "asmCodeUrl": "ItchIO.asm.code.unityweb",
     "asmMemoryUrl": "ItchIO.asm.memory.unityweb",
     "asmFrameworkUrl": "ItchIO.asm.framework.unityweb",
