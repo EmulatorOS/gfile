@@ -1,0 +1,13 @@
+{
+    "companyName": "DefaultCompany",
+    "productName": "Black & White",
+    "dataUrl": "BLACK & WHITE TO SEND.data.unityweb",
+    "wasmCodeUrl": "BLACK & WHITE TO SEND.wasm.code.unityweb",
+    "wasmFrameworkUrl": "BLACK & WHITE TO SEND.wasm.framework.unityweb",
+    "TOTAL_MEMORY": 268435456,
+    "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+    "webglContextAttributes": {"preserveDrawingBuffer": false},
+    "splashScreenStyle": "Dark",
+    "backgroundColor": "#000000",
+    "cacheControl": {"default": "must-revalidate"}
+    }
