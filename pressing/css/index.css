@@ -1,0 +1,95 @@
+@font-face {
+    font-family:'Recursive-SemiBold';
+    src:url('../fonts/Recursive-SemiBold.ttf') format('truetype');
+}
+
+html,
+body {
+    background-color:#000;
+    height:100%;
+}
+
+body {
+    font-family:Recursive-SemiBold;
+    margin:0;
+    overflow:hidden;
+}
+
+canvas {
+    height:100%;
+    position:fixed;
+    width:100%;
+    z-index:0;
+}
+
+a {
+    color:#fff !important;
+    text-decoration:none;
+}
+
+.loading {
+    color:#fff;
+    font-size:70px;
+    left:0;
+    position:absolute;
+    right:0;
+    text-align:center;
+    top:10%;
+    z-index:1;
+}
+
+.show-credits {
+    bottom:10px;
+    left:10px;
+    font-size:30px;
+    position:absolute;
+    z-index:3;
+}
+
+.sprites {
+    left:0;
+    height:10px;
+    position:absolute;
+    top:0;
+    visibility:hidden;
+    width:10px;
+}
+
+.credits {
+    background-color:#0008;
+    bottom:10px;
+    color:#ccc;
+    left:10px;
+    overflow-y:scroll;
+    position:absolute;
+    right:10px;
+    top:10px;
+    visibility:hidden;
+    z-index:2;
+}
+
+.button {
+    cursor:pointer;
+    height:100%;
+    margin:0 auto;
+    position:relative;
+    width:72vh;
+    z-index:1;
+}
+
+.the-end {
+    color:#2c4f91;
+    font-size:120px;
+    left:0;
+    position:absolute;
+    right:0;
+    text-align:center;
+    text-shadow:0px 0px 15px #fff;
+    top:10%;
+    visibility:hidden;
+    z-index:1;
+}
+
+ul {
+    list-style-type:none;
+}

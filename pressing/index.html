@@ -1,0 +1,134 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Pressing under pressure</title>
+
+        <meta charset="utf-8" />
+
+        <meta name="viewport" content="width=device-width, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0, shrink-to-fit=no" />
+        <meta name="mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-capable" content="yes" />
+        <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+
+        <link href="images/favicon.png" rel="shortcut icon" type="image/ico" />
+
+        <link href="css/index.css" rel="stylesheet" type="text/css" />
+
+        <script type="module">
+import './js/entities/animations.class.js';
+import './js/entities/button.class.js';
+import './js/entities/player.class.js';
+
+import './js/game/app.class.js';
+        </script>
+    </head>
+    <body>
+        <canvas>
+            Canvas is not supported
+        </canvas>
+
+        <div class="button"></div>
+
+        <img src="./images/sprites.png" class="sprites" />
+
+        <div class="loading">LOADING</div>
+
+        <div class="the-end">THE END</div>
+
+        <a class="show-credits" href="#" alt="show credits">SHOW CREDITS</a>
+
+        <div class="credits">
+            <h3>Developed by <a href="https://donitz.itch.io/" target="_blank">Donitz</a></h3>
+
+            <h3>Powered by <a href="https://threejs.org/" target="_blank">Three.js</a></h3>
+
+            <h3>Fonts from <a href="https://fonts.google.com/" target="_blank">Google Fonts</a>:</h3>
+            <ul>
+                <li>
+                    <a href="https://fonts.google.com/specimen/Recursive?preview.text=.%2Flookbehind&preview.text_type=custom#standard-styles" target="_blank">"Recursive"</a>
+                    by Arrow Type, Stephen Nixon licensed under the <a href="https://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=OFL" target="_blank">SIL Open Font License</a>
+                </li>
+            </ul>
+
+            <h3>Textures - All are edited:</h3>
+            <ul>
+                <li>
+                    <a href="https://opengameart.org/content/clouds-skybox-1" target="_blank">"clouds skybox 1"</a>
+                    by Luke.RUSTLTD licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://commons.wikimedia.org/wiki/File:Classic_perser_cat.jpg" target="_blank">"Classic perser cat.jpg"</a>
+                    by licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+            </ul>
+
+            <h3>Models:</h3>
+            <ul>
+                <li>
+                    <a href="https://quaternius.com/packs/easyenemy.html" target="_blank">"Easy Enemy Pack"</a>
+                    by <a href="https://quaternius.com" target="_blank">Quaternius</a> under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+            </ul>
+
+            <h3>Sounds effects from <a href="https://freesound.org/" target="_blank">freesound.org</a> - Sound effects have been cropped and converted:</h3>
+            <ul>
+                <li>
+                    <a href="https://freesound.org/people/Migfus20/sounds/561085/" target="_blank">"Trailer >> Drone Background Music"</a>
+                    by Migfus20 licensed under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/EminYILDIRIM/sounds/547564/" target="_blank">"Futuristic Alarm"</a>
+                    by EminYILDIRIM licensed under <a href="https://creativecommons.org/licenses/by/3.0/" target="_blank">CC BY 3.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/bassmosphere/sounds/384698/" target="_blank">"Hi-Lo Ace >> A relay switch being activated"</a>
+                    by bassmosphere licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/Coral_Island_Studios/sounds/277662/" target="_blank">"Buttons and Levers >> Button 6.mp3"</a>
+                    by Coral_Island_Studios licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/IndigoRay/sounds/339132/" target="_blank">"Beep Sounds >> Beep Boing.wav"</a>
+                    by IndigoRay licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/Eponn/sounds/531511/" target="_blank">"Dreamy Beeps >> Menu Beep"</a>
+                    by Eponn licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/Beetlemuse/sounds/528956/" target="_blank">"Wrong Answer / Incorrect / Error"</a>
+                    by Beetlemuse licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/plasterbrain/sounds/464918/" target="_blank">"Loops >> (Loop) By the Sea"</a>
+                    by plasterbrain licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/KevinT1001/sounds/379906/" target="_blank">"Water_Flood_enhanced.mp3"</a>
+                    by KevinT1001 licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/SRJA_Gaming/sounds/545205/" target="_blank">"Underwater Waves"</a>
+                    by SRJA_Gaming licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/lolamadeus/sounds/161228/" target="_blank">"Large Metal Lift Door Opening.wav"</a>
+                    by lolamadeus licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/paulprit/sounds/507093/" target="_blank">"Fish Splashing Release 2.wav"</a>
+                    by paulprit licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/Darsycho/sounds/505185/" target="_blank">"Shrine II monsters >> Angry spider monster"</a>
+                    by Darsycho licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+                <li>
+                    <a href="https://freesound.org/people/jozef_sound/sounds/493941/" target="_blank">"Metal Gear Solid Alarm.wav"</a>
+                    by jozef_sound licensed under <a href="https://creativecommons.org/publicdomain/zero/1.0/" target="_blank">CC0 1.0</a>
+                </li>
+            </ul>
+        </div>
+    </body>
+</html>
