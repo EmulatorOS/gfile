@@ -15290,14 +15290,14 @@ cr.plugins_.AddictingGames = function(runtime)
 		this.apiInstance = null;
 		var jvs = document.createElement("script");
 		jvs.type = "text/javascript";
-		jvs.src = "/assets/swag-api.js";
+		jvs.src = "assets/swag-api.js";
 		jvs.onload = function(){
 		};
 		document.getElementsByTagName("head")[0].appendChild(jvs);
 		var css = $("<link>", {
 		"rel" : "stylesheet",
 		"type" :  "text/css",
-		"href" : "/assets/swag-api.css"
+		"href" : "assets/swag-api.css"
 		})[0];
 		css.onload = function(){
 		console.log(jvs);
