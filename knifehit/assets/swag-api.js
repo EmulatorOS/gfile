@@ -268,7 +268,7 @@
       \*********************************************************/
     /*! no static exports found */
     /*! all exports used */
-    /*! ModuleConcatenation bailout: Module is not an ECMAScript module */function(e,t,n){var a=n(/*! ../../../node_modules/handlebars/runtime.js */0);e.exports=(a.default||a).template({compiler:[7,">= 4.0.0"],main:function(e,t,n,a,r){return'<div id="swag-branding-animation-wrapper" class="swag-branding-animation-wrapper"s>\n  <img id="swag-branding-animation" src="https://cdn2.addictinggames.com/addictinggames-content/ag-assets/preloaders/ag-branding-animation.gif" width="100%" height="auto"/>\n</div>\n'},useData:!0})},
+    /*! ModuleConcatenation bailout: Module is not an ECMAScript module */function(e,t,n){var a=n(/*! ../../../node_modules/handlebars/runtime.js */0);e.exports=(a.default||a).template({compiler:[7,">= 4.0.0"],main:function(e,t,n,a,r){return'<div id="swag-branding-animation-wrapper" class="swag-branding-animation-wrapper"s>\n  <img id="swag-branding-animation" src="ag-branding-animation.gif" width="100%" height="auto"/>\n</div>\n'},useData:!0})},
     /*!********************************************************!*\
       !*** ./src/templates/api/dialog-user-login.handlebars ***!
       \********************************************************/
