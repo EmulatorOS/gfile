@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Google Snake",
+    "version": "1",
+    "icons": {
+      "128": "snake_arcade/color_07.png"
+    },
+    "permissions": [],
+    "app": {
+      "background": {
+        "scripts": ["background.js"]
+      }
+    },
+    "minimum_chrome_version": "28"
+  }
